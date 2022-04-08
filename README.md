@@ -1,4 +1,4 @@
-# Spotify-Mood-Suggestions
+# Spotify Mood Suggestions
 
 ## Objective 
 
