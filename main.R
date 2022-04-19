@@ -1,3 +1,2 @@
-# INSTALLATION
-install.packages('spotifyr', dependencies = TRUE)
+suppressMessages(source("setup.R", echo = FALSE))
 
