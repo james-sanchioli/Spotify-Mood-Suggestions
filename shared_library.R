@@ -1,7 +1,7 @@
 suppressPackageStartupMessages(source("setup.R"))
 
 get_playlist_df = function(uris) {
-  message("\nBegin getting audio features")
+  message("\nBegin getting playlist audio features")
   playlist_features = data.frame(get_playlist_audio_features(playlist_uris = uris)) %>%
     select(
       c(
@@ -15,17 +15,20 @@ get_playlist_df = function(uris) {
       )
     )
   
-    message(paste(
-      "Terminated query with",
-    nrow(playlist_features),
-      "total songs"
-    ))
-    
-    return(playlist_features)
+  message(paste(
+    "Terminated query with",
+    nrow(playlist_features)
+  ))
+  
+  return(playlist_features)
 }
 
 
 get_user_library_df = function() {
+  message("\nBegin getting user library audio features")
+  reachedEnd = FALSE
+  dx = 0
+  user_library = data.frame()
   while (!reachedEnd) {
     df = data.frame(get_my_saved_tracks(limit = 50,
                                         offset = dx))
@@ -86,4 +89,10 @@ get_user_library_df = function() {
     all.x = TRUE
   ) %>%
     return
+}
+
+add_all_tracks_to_playlist = function(playlist_id, uris, authorization = get_spotify_authorization_code()) {
+  for (r in seq(1, length(uris), 100)) {
+    add_tracks_to_playlist(playlist_id, uris[r:(min(r + 100 - 1, length(uris)))])
+  }
 }
