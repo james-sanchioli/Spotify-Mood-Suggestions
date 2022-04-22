@@ -2,14 +2,8 @@ suppressMessages(source("shared_library.R", echo = FALSE))
 suppressMessages(library(caret))
 suppressMessages(library(e1071))
 
-args = commandArgs(trailingOnly = TRUE)
-if (length(args) == 0) {
-  stop("Run 'Rscript suggest_playlist.R --args MOOD LENGTH'",
-       call. = FALSE)
-} else {
-  target_mood = str_to_lower(args[2])
-  target_length = args[3]
-}
+target_mood = str_to_lower(user.input(prompt = "Target mood: "))
+target_length = user.input(prompt = "Playlist length: ")
 
 user_library = get_user_library_df()
 
@@ -52,7 +46,7 @@ target_column = paste0("posterior.",target_mood)
 
 user_library = user_library[order(user_library[target_column],decreasing = TRUE),]
 
-track_uris = user_library[1:10,"track.id"]
+track_uris = user_library[1:max(1, target_length),"track.id"]
 
 new_playlist_id = create_playlist(user_id = get_my_profile()$id, name = str_to_title(target_mood))$id
 

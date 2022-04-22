@@ -96,3 +96,12 @@ add_all_tracks_to_playlist = function(playlist_id, uris, authorization = get_spo
     add_tracks_to_playlist(playlist_id, uris[r:(min(r + 100 - 1, length(uris)))])
   }
 }
+
+user.input <- function(prompt) {
+  if (interactive()) {
+    return(readline(prompt))
+  } else {
+    cat(prompt)
+    return(readLines("stdin", n=1))
+  }
+}

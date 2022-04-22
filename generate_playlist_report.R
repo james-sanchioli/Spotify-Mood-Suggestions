@@ -1,15 +1,6 @@
 suppressPackageStartupMessages(source("shared_library.R"))
 
-args = commandArgs(trailingOnly = TRUE)
-if (length(args) == 0) {
-  # Catches a missing spotify URL
-  stop(
-    "Run 'Rscript generate_playlist_report.R --args SPOTIFY_URL_FOR_PLAYLIST'",
-    call. = FALSE
-  )
-} else {
-  url = args[2]
-}
+url = user.input("Target playlist URL: ")
 
 playlist_uri = str_match(url, "/([A-z0-9]+)\\?")[2]
 
@@ -18,7 +9,7 @@ playlist_features = tryCatch({
 }, error = function(e) {
   stop(
     # Catches a malformed or private spotify URL
-    "Run 'Rscript generate_playlist_report.R --args SPOTIFY_URL_FOR_PLAYLIST'",
+    "Enter a correct Spotify URL",
     call. = FALSE
   )
 })
