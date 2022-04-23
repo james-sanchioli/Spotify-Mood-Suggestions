@@ -6,11 +6,16 @@ target_mood = str_to_lower(user.input(prompt = "Target mood: "))
 target_length = user.input(prompt = "Playlist length: ")
 
 user_library = tryCatch({
-  message("Loading cached user library data")
   read.csv(paste0("Reports/", str_to_lower(get_my_profile()$display_name), ".csv"))
-}, error = function(e) {
+  message("Loading cached user library data")
+}, warning = function(w) {
   message("Requesting user library data")
-  get_user_library_df()
+  df = get_user_library_df()
+  name = get_my_profile()$display_name
+  filename = paste0("Reports/", str_replace_all(tolower(name), " ", "_"), ".csv")
+  dir.create("Reports", showWarnings = FALSE)
+  write.csv(df, filename)
+  df
 })
 
 
