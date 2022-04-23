@@ -5,24 +5,31 @@ suppressMessages(library(e1071))
 target_mood = str_to_lower(user.input(prompt = "Target mood: "))
 target_length = user.input(prompt = "Playlist length: ")
 
-user_library = get_user_library_df()
+user_library = tryCatch({
+  message("Loading cached user library data")
+  read.csv(paste0("Reports/", str_to_lower(get_my_profile()$display_name), ".csv"))
+}, error = function(e) {
+  message("Requesting user library data")
+  get_user_library_df()
+})
 
-mood_baseline = read.csv("Reports/angry.csv") %>%
+
+mood_baseline = read.csv("Baselines/angry.csv") %>%
   mutate(mood = "angry")
 
-mood_baseline = read.csv("Reports/excited.csv") %>%
+mood_baseline = read.csv("Baselines/excited.csv") %>%
   mutate(mood = "excited") %>%
   rbind(mood_baseline)
 
-mood_baseline = read.csv("Reports/happy.csv") %>%
+mood_baseline = read.csv("Baselines/happy.csv") %>%
   mutate(mood = "happy") %>%
   rbind(mood_baseline)
 
-mood_baseline = read.csv("Reports/relaxed.csv") %>%
+mood_baseline = read.csv("Baselines/relaxed.csv") %>%
   mutate(mood = "relaxed") %>%
   rbind(mood_baseline)
 
-mood_baseline = read.csv("Reports/sad.csv") %>%
+mood_baseline = read.csv("Baselines/sad.csv") %>%
   mutate(mood = "sad") %>%
   rbind(mood_baseline)
 

@@ -97,11 +97,24 @@ add_all_tracks_to_playlist = function(playlist_id, uris, authorization = get_spo
   }
 }
 
-user.input <- function(prompt) {
+user.input = function(prompt) {
   if (interactive()) {
     return(readline(prompt))
   } else {
     cat(prompt)
     return(readLines("stdin", n=1))
   }
+}
+
+uri_from_url = function(link){
+  tryCatch({
+    str_match(url, "/([A-z0-9]+)\\?")[2]
+  }, error = function(e) {
+    stop(
+      # Catches a malformed or private spotify URL
+      paste("Not a Spotify URL:",link),
+      call. = FALSE
+    )
+  }) %>%
+    return
 }
