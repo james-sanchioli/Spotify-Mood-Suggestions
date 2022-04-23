@@ -15,10 +15,8 @@ get_playlist_df = function(uris) {
       )
     )
   
-  message(paste(
-    "Terminated query with",
-    nrow(playlist_features)
-  ))
+  message(paste("Terminated request with",
+                nrow(playlist_features)))
   
   return(playlist_features)
 }
@@ -34,7 +32,7 @@ get_user_library_df = function() {
                                         offset = dx))
     if (nrow(df) == 0) {
       message(paste(
-        "  Terminated query with",
+        "  Terminated request with",
         nrow(user_library),
         "total songs"
       ))
@@ -91,6 +89,46 @@ get_user_library_df = function() {
     return
 }
 
+get_user_history_df = function() {
+  message("\nBegin getting user history audio features")
+  user_history = data.frame(get_my_recently_played(limit = 50)) %>%
+    select(c("track.id", "track.name")) %>%
+    unique()
+  
+  message(paste("  Terminated request with",
+                nrow(user_history),
+                "total songs"))
+  
+  user_history_features = data.frame()
+  
+  message("\nRetrieving track features")
+  user_history_features = get_track_audio_features(user_history[1:(min(50, nrow(user_history))), "track.id"]) %>%
+    select(c(
+      "id",
+      "danceability",
+      "energy",
+      "speechiness",
+      "liveness",
+      "valence"
+    ))
+  
+  message(paste(
+    "  Terminated request with",
+    nrow(user_history_features),
+    "total songs"
+  ))
+  
+  
+  merge(
+    user_history,
+    user_history_features,
+    by.x = "track.id",
+    by.y = "id",
+    all.x = TRUE
+  ) %>%
+    return
+}
+
 add_all_tracks_to_playlist = function(playlist_id, uris, authorization = get_spotify_authorization_code()) {
   for (r in seq(1, length(uris), 100)) {
     add_tracks_to_playlist(playlist_id, uris[r:(min(r + 100 - 1, length(uris)))])
@@ -102,19 +140,17 @@ user.input = function(prompt) {
     return(readline(prompt))
   } else {
     cat(prompt)
-    return(readLines("stdin", n=1))
+    return(readLines("stdin", n = 1))
   }
 }
 
-uri_from_url = function(link){
+uri_from_url = function(link) {
   tryCatch({
     str_match(url, "/([A-z0-9]+)\\?")[2]
   }, error = function(e) {
-    stop(
-      # Catches a malformed or private spotify URL
-      paste("Not a Spotify URL:",link),
-      call. = FALSE
-    )
+    stop(# Catches a malformed or private spotify URL
+      paste("Not a Spotify URL:", link),
+      call. = FALSE)
   }) %>%
     return
 }
