@@ -1,0 +1,641 @@
+"","track.id","track.name","danceability","energy","speechiness","liveness","valence"
+"1","00pFKTsXTYfLwGlNnUYETw","Jesus, Take the Wheel",0.285,0.511,0.0304,0.111,0.138
+"2","023OVLNzXhX0j7CxswUt6D","Cheerleader - Felix Jaehn Remix Radio Edit",0.78,0.68,0.0305,0.138,0.594
+"3","025UUQA6NowbZynZU3Hv0u","I Have A Hole In My Tooth (And My Dentist is Shut)",0.721,0.499,0.0769,0.0738,0.975
+"4","02NKMA9cIkq6VuBNu9q9Wf","The Chipmunk Song (Christmas Don't Be Late) - Remastered 1999",0.612,0.37,0.0344,0.23,0.777
+"5","03uQyt8Bdnt2paQgCWZl5v","Apex Predator",0.656,0.804,0.0894,0.297,0.489
+"6","03vyB3AHCuEGfhh7wPc7Yf","When You're Ready",0.49,0.473,0.129,0.113,0.603
+"7","05bhmaAD1urZnQMWNd6p3S","Schuyler Defeated",0.745,0.597,0.257,0.157,0.842
+"8","05fmLn8tNYb3ijIH2jCLPb","Comfortable",0.433,0.554,0.165,0.0903,0.546
+"9","05toQr8KfOfb7rmeUun2u2","Not like the Movies",0.627,0.838,0.0509,0.0753,0.804
+"10","08O9ITh2Pj9xEA0IVRuIDV","Mud Blood",0.734,0.521,0.0417,0.358,0.707
+"11","0A8HsvOQDZwok0iyMflSdW","More Is Better",0.368,0.384,0.0436,0.0836,0.351
+"12","0at9NPpQtKkwaWyruZbjop","Glimmer",0.554,0.809,0.0519,0.162,0.444
+"13","0Blojh3eznTkOiIJSDKb6W","Opening Up",0.585,0.723,0.0592,0.115,0.773
+"14","0bsMTtWnxQ4lKlfBreueZt","One Dance (feat. Harper)",0.394,0.443,0.0414,0.268,0.312
+"15","0CDiPsPxx1Xtg5t3d3yoUW","Midnight Mouths",0.573,0.617,0.026,0.129,0.249
+"16","0Cgd9QmbRtRbKXKyOlVnGb","Love Yourself",0.8,0.406,0.335,0.237,0.728
+"17","0cQ5y2ycYOR7KrMG752t8Q","Solo",0.567,0.644,0.0488,0.463,0.34
+"18","0cqiehfcVFq3ISC3pO9zLE","Heart Strings",0.703,0.496,0.035,0.0837,0.892
+"19","0D0hntFnPGhcqlexHeudeV","Opening Up - Finale",0.6,0.47,0.0338,0.273,0.652
+"20","0D2xguFRqCF0OUqXCkqrpU","Hard Sometimes",0.407,0.317,0.0429,0.139,0.216
+"21","0dNS3jiP5O2EHZVpD8EuxP","Not The Sun",0.413,0.28,0.0338,0.0963,0.131
+"22","0Dq49j3dELbttQVUJbtn0c","Nervous",0.841,0.622,0.0756,0.126,0.738
+"23","0E4Y1XIbs8GrAT1YqVy6dq","Afterglow",0.641,0.324,0.0299,0.328,0.273
+"24","0eaFGIJGHgwKGDcVwHnc7t","Bad Idea",0.538,0.787,0.0543,0.169,0.701
+"25","0EAzlhtMYxRb6wbi6KnPjC","The Other",0.38,0.553,0.0653,0.0788,0.384
+"26","0ErjxyZ4qHQVs5umCBIClk","Sleigh Ride",0.745,0.487,0.029,0.271,0.87
+"27","0EUodO4zn5fiWhADyOxiC9","Epilogue - From ""Frozen""/Score",0.269,0.114,0.0385,0.0861,0.071
+"28","0f6lAJRqA5NgBdyZWhSPda","Contraction Ballet",0.512,0.123,0.0944,0.188,0.185
+"29","0fN3iJa0qbbpFXU0g2B5ya","The Death of Me",0.472,0.557,0.0443,0.163,0.199
+"30","0GM2k74cNQzZU7nscnEX7n","Only Know How to Love You",0.735,0.338,0.0564,0.109,0.267
+"31","0gMW8XpPFPjoApDii5Tj1u","Waving Through A Window",0.549,0.705,0.0564,0.12,0.52
+"32","0gvyS5QqsQiGZ0e9fDxChn","Recovery",0.265,0.631,0.0578,0.138,0.249
+"33","0h77yfaXxrLMLz31uNDigN","What Baking Can Do",0.704,0.553,0.0478,0.0684,0.415
+"34","0IIdoxwlGBHhNZQkbYF3yD","Body Gold",0.717,0.49,0.091,0.323,0.169
+"35","0iqJTfuwJO3UVIHvzS7cB5","7 Years",0.776,0.251,0.0458,0.104,0.769
+"36","0IuVhCflrQPMGRrOyoY5RW","she's all i wanna be",0.614,0.644,0.0426,0.117,0.651
+"37","0iVbEBizaS8X9RW1MLzKB8","Break My Heart Again",0.572,0.406,0.032,0.107,0.35
+"38","0IVHlst3XMgzXUJbIyZ8oO","Without You",0.639,0.465,0.0696,0.124,0.319
+"39","0Iys022UwQ8xBfxE1g4nWZ","One Last Time",0.449,0.42,0.356,0.0805,0.41
+"40","0j1BAvgZnO5LoRCsGtgYYG","Heavy",0.749,0.454,0.0587,0.251,0.944
+"41","0jiaQJfyTwieg6t30SP9xS","What's Wrong With Me?",0.367,0.241,0.0349,0.125,0.383
+"42","0JswmIBSn3XZ15wEEtH5fj","Impossible - Acoustic",0.369,0.42,0.0384,0.121,0.257
+"43","0jW4YGXcbUBsMjQa7aHuSf","It Only Takes a Taste",0.752,0.263,0.0609,0.348,0.374
+"44","0kAWlfMyn1ah4y5iKUkngI","Finale",0.437,0.357,0.218,0.214,0.286
+"45","0kbG8feXW2Pa9SXqf14Eg6","Club Knocked Up",0.723,0.56,0.0448,0.325,0.969
+"46","0LbaxqqbUVE1kANizaaL0F","Blown Away",0.522,0.816,0.045,0.0245,0.384
+"47","0lnIJmgcUpEpe4AZACjayW","Sorry",0.775,0.598,0.0535,0.253,0.356
+"48","0LpHC9mhPAQC98IjXZIrif","The Election of 1800",0.731,0.42,0.462,0.306,0.645
+"49","0lZ1eNSYErzmNIK5x4C4Hq","Who Loves You",0.627,0.871,0.0693,0.309,0.656
+"50","0mb7btREdC3wuIUmuVRgWn","I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",0.579,0.904,0.15,0.0649,0.713
+"51","0MeZrItVxB77JoApl5rUrN","Where Do You Belong?",0.456,0.719,0.138,0.153,0.482
+"52","0mqcxeYg1b57YjniPNTtQ6","96,000",0.719,0.554,0.353,0.113,0.648
+"53","0MVeLASrPyBrC6hwwhIMwu","Even If It's a Lie - Demo",0.481,0.293,0.0294,0.11,0.134
+"54","0nDOIUxUUIFmiiLZslvi65","Flying Monkey Lament 1",0.715,0.613,0.0413,0.0876,0.871
+"55","0NEKQk8LR8m8gBNnG3QFzk","Shoestring",0.711,0.385,0.0583,0.0717,0.401
+"56","0NJWhm3hUwIZSy5s0TGJ8q","The Story of Tonight",0.494,0.237,0.0517,0.648,0.625
+"57","0oA9wBGDY4uyILLg4GymWP","Tom's Diner",0.68,0.428,0.135,0.355,0.334
+"58","0ohcCrxZkBfFbkuRPOZQZX","dancing in the kitchen",0.619,0.736,0.0425,0.0864,0.299
+"59","0P09TBGSKiQwfUsEh1UafT","The World Was Wide Enough",0.653,0.351,0.648,0.107,0.307
+"60","0pxNyJJiL2zZZ5GgJ4JhsQ","6 Inch (feat. The Weeknd)",0.516,0.637,0.0632,0.11,0.324
+"61","0qbbYfPZ9yMOyJfNAGVBop","Portrait",0.544,0.443,0.0276,0.132,0.0989
+"62","0qbP1p2jMDkCKXIanfmYtI","Walk Away",0.685,0.787,0.0348,0.223,0.624
+"63","0QIRm9sUkGnezGznkWCqCo","BANG BANG BANG",0.694,0.832,0.0598,0.355,0.424
+"64","0rrfXLr1p1yxsUy7LrKoYT","Mutual",0.917,0.474,0.156,0.133,0.801
+"65","0rTV5WefWd1J3OwIheTzxM","Talk",0.9,0.4,0.124,0.0876,0.338
+"66","0rzNMzZsubFcXSEh7dnem7","Hold Up",0.524,0.397,0.405,0.521,0.552
+"67","0sdbFOyfgAhAhWq8DpzkaW","the light is coming (feat. Nicki Minaj)",0.877,0.547,0.18,0.028,0.687
+"68","0SjjcXfArhzePhEzDNkY8z","Anybody Have a Map?",0.634,0.603,0.258,0.536,0.744
+"69","0skrS3ItclFdUYVZZeUy07","hate my favorite band",0.577,0.813,0.0306,0.196,0.795
+"70","0sSXm4ao0VlCptMK21G32I","Stand by Me",0.744,0.137,0.0325,0.0965,0.684
+"71","0U1W2LZVUX7qTm7dDpqxh6","When You're Gone",0.603,0.691,0.0372,0.583,0.577
+"72","0UHdsqznjCoqPzZJTJZ5Kb","Speak",0.387,0.476,0.0351,0.188,0.478
+"73","0UTHr20nqVFMoji8xYE9yl","Perfectly Wrong",0.465,0.311,0.0352,0.0986,0.311
+"74","0v2LUO8oTHnkjQ8MmKuXyk","raindrops (an angel cried)",0.336,0.231,0.0497,0.188,0.429
+"75","0vAgScrM7WMXmlybPzHHsy","By My Side",0.682,0.713,0.0511,0.0902,0.205
+"76","0vVobm34c8dITzasWIBxJZ","Ces Soirees-La (feat. Erica Piccininni)",0.866,0.76,0.0469,0.52,0.868
+"77","0WdR2AyLW1Drd3OUdwezM0","everytime",0.71,0.614,0.0431,0.0974,0.658
+"78","0wdV94AXGRphrbkDWLNzVC","Roaring 20s",0.271,0.948,0.263,0.163,0.515
+"79","0Wf2AKzIxyPzorOHA86VQ0","Blood Orange Morning Light",0.632,0.491,0.025,0.0827,0.395
+"80","0XOnMqLQDO89iAg7dWWwnG","pete davidson",0.652,0.31,0.0509,0.182,0.304
+"81","0xPaZrF25ltzvz1a2Pm5DQ","All I Want for Christmas Is You",0.503,0.465,0.0274,0.101,0.143
+"82","0xwPzLmBAYro8BUz7MrtAo","Make You Miss Me",0.614,0.472,0.0297,0.111,0.168
+"83","0yFtzyW55jcwZ48g7FtfoY","Always Something There to Remind Me",0.626,0.235,0.0312,0.109,0.252
+"84","0YQcktqICwSWzlS4P4jzOz","Ex To See",0.615,0.824,0.107,0.342,0.637
+"85","0z5QvYyZ7hJ43Aa2bp2N31","A Cautionary Tale",0.554,0.738,0.0403,0.551,0.425
+"86","0ZTdalEIo0ZwDttOzA5LjH","Alabanza",0.498,0.0874,0.0661,0.105,0.141
+"87","0ZWW07BD8W85lUbgx2sn7E","For Forever",0.371,0.457,0.0407,0.0882,0.166
+"88","10LSITr9KpQs2uCh7g2QQh","Come Close",0.44,0.241,0.0512,0.112,0.277
+"89","10RQKVSr4rS0coExTmi4dF","Something in the Water",0.451,0.893,0.0627,0.0813,0.0971
+"90","10yIZv28DUZPHkdqJfzEZs","Remind Me - duet with Brad Paisley",0.484,0.78,0.0312,0.507,0.311
+"91","11gaq0REAP9DMeiHkD2MAe","Writing's On The Wall",0.263,0.391,0.0307,0.0996,0.053
+"92","11r0OH8zYLcBlryvnAiykT","Sherry",0.766,0.753,0.122,0.615,0.867
+"93","136J2Jkg8sG7P5wilO9P1R","Meant To Be",0.5,0.156,0.0469,0.125,0.405
+"94","13pgP4LlXf849wDkBJDi5h","Hello",0.336,0.381,0.0389,0.0974,0.146
+"95","141SNZkvr2CYsiedNQmOCL","The Killing Kind",0.316,0.578,0.0535,0.0966,0.31
+"96","14kYOiFVPb7E7NfFbqhdln","goodnight n go",0.708,0.454,0.0395,0.073,0.24
+"97","153HGTa7ldbaV47MQ1tsEc","Kiss",0.832,0.54,0.0423,0.0483,0.843
+"98","15byLK9MadQ44VM9opaGms","Crazy - Live Sessions",0.517,0.25,0.0355,0.101,0.249
+"99","15O3cEqfhnudkoMfZcJ7XV","Fearless",0.357,0.699,0.0501,0.403,0.229
+"100","15Ta8fxgKNNeahyeYC6dQG","Mad World",0.446,0.49,0.0559,0.148,0.541
+"101","16HzLmAArSTpIUkgkizfOM","Not All Men",0.611,0.48,0.0336,0.151,0.208
+"102","16sNPUamj4vnA7uQLozRpU","Hurricane",0.453,0.546,0.309,0.0965,0.398
+"103","16YdPF3ZGFIfouwajAhv6C","Boyfriend - Acoustic Version",0.752,0.292,0.0924,0.1,0.62
+"104","17FyWGvqby379Q92sn23jW","Queen",0.877,0.688,0.11,0.0872,0.921
+"105","17JYzDCW1UTndfURuTydF2","Dance To This (feat. Ariana Grande)",0.736,0.756,0.047,0.106,0.712
+"106","182nWGUIb6i8vwVtq6GLy0","Pillowtalk",0.448,0.198,0.0635,0.0904,0.461
+"107","18ULKfQl3KpCnklAKFfO2t","Old Fashioned",0.52,0.878,0.0616,0.0433,0.783
+"108","18VTV3LLdTUiWvZUGU0jNI","Over The Rainbow",0.429,0.464,0.0488,0.12,0.158
+"109","18xmRkPWE0sGUzFyNNAAhN","Dying in LA",0.346,0.35,0.0328,0.0708,0.315
+"110","19J2V5AdZkROQkqVrKnk75","Blah Blah Blah",0.818,0.821,0.261,0.281,0.746
+"111","19TjLu6gqu4F1BDjgXOkP9","So Small",0.406,0.797,0.0401,0.0836,0.265
+"112","1AaN8oIJlgTUFSZ2tYndWe","Say Somethin'",0.634,0.879,0.0414,0.485,0.918
+"113","1AgGSwTaVhClOMC9MsvFzd","Eleonora",0.327,0.206,0.0384,0.303,0.215
+"114","1B30e9XHKBfKlkHf2u3XnR","Little People",0.748,0.772,0.116,0.0519,0.659
+"115","1bDLMtY69Cx6inNN9kaYkk","Numbers",0.504,0.739,0.0557,0.3,0.526
+"116","1ByTNOl4eAizhAS2gmXVH6","When You're Home - Radio Edit",0.484,0.626,0.21,0.085,0.356
+"117","1CONbh9I0awPEZ6VUVowW1","SPF",0.552,0.394,0.156,0.083,0.68
+"118","1CzeuSrm71wHP9qsjg7p3F","The Story of Tonight - Reprise",0.724,0.305,0.257,0.128,0.594
+"119","1CZgbcEZEhHH28HcBFvQIW","Never Ever Getting Rid of Me",0.622,0.542,0.051,0.114,0.939
+"120","1DAeqBDSVMVvhSAIdd99gf","Hungry Heart",0.692,0.757,0.0498,0.273,0.557
+"121","1DICQN9XQpTSRP310uLh6p","Beauty and the Beast (feat. Lorea Turner)",0.313,0.298,0.027,0.176,0.225
+"122","1DLfR4MOfLYbV6v3xrmWa8","We Know",0.718,0.484,0.523,0.127,0.692
+"123","1dZutYKh4BtPlxbC81wV34","Best of Wives and Best of Women",0.647,0.115,0.0544,0.0858,0.597
+"124","1E87WkhGXw3iOn5b44NJRr","Way Too Good",0.369,0.417,0.0415,0.0778,0.342
+"125","1eDFiq0YpNFrVBipuMzfCW","Whoop Dat Ass",0.614,0.601,0.246,0.299,0.903
+"126","1ePtWetZ9PTQhQHjm7I3oQ","Last Name",0.427,0.883,0.102,0.105,0.724
+"127","1EpugFOJBEIyLOIGSua9Ka","Just a Dream",0.517,0.807,0.0367,0.128,0.354
+"128","1ezEEKOlrQ3gfMV5608xxn","Is This Love?",0.557,0.865,0.0387,0.176,0.603
+"129","1FlAMUpKrjY4NdaqsXjl1w","Back in My Arms",0.543,0.781,0.0988,0.0868,0.522
+"130","1H7Zqkq54andtaSSnLRrfp","You Will Be Found",0.293,0.624,0.0613,0.0874,0.213
+"131","1iE5YFVOadPu2f7BHXQPyU","Mama's Song (writing session worktape 2/5/09)",0.448,0.367,0.0341,0.0665,0.383
+"132","1Ip5p31SowqjJLo2ss1afJ","better off without me",0.62,0.468,0.04,0.322,0.646
+"133","1is8gU4RVcN4J8xItxWoOY","I GUESS I'M IN LOVE",0.422,0.34,0.0351,0.149,0.223
+"134","1jIMjbzcGCcCQn5iMu9CUc","That's Hilarious",0.714,0.442,0.0605,0.114,0.546
+"135","1jNwL2XWMaCbQ8bFnzMkye","I Knew You When",0.658,0.62,0.0376,0.102,0.493
+"136","1koPgdotTZ591wGLcB900G","Where Am I Now? (feat. Patti Murin)",0.334,0.42,0.0509,0.157,0.252
+"137","1KXFoiT2n4QXRsFvhWNI4I","Why",0.693,0.416,0.0494,0.0631,0.235
+"138","1LEp1sLVR06zJkNCl5shAZ","Flyin'",0.608,0.905,0.302,0.0761,0.842
+"139","1mGO8rwCE9zk7H06OxcU5m","History Has Its Eyes on You",0.438,0.373,0.0291,0.123,0.274
+"140","1mmAqhLcvPrknbslMiDlyU","Particular Taste",0.967,0.352,0.122,0.0676,0.612
+"141","1MNevc3dOPDPRZ3SinWfje","Wicked Game",0.635,0.784,0.0773,0.0853,0.353
+"142","1MwkzsFu9JJ3obNBybRHpV","Strange Time",0.271,0.246,0.0387,0.115,0.0743
+"143","1O2aghW30o3yv8EwyKbQfj","See You Again",0.508,0.721,0.0258,0.0859,0.42
+"144","1piXWeTvZCGO8GAvJHYUPc","Someone Gets Hurt (Reprise)",0.503,0.517,0.0953,0.0958,0.213
+"145","1PVmjwNKTrb9CkrTR1mbUf","What Now",0.365,0.696,0.0571,0.127,0.267
+"146","1QNhYH6jJpLld0a0cwSxbC","Poison (feat. Shogun)",0.37,0.635,0.0739,0.15,0.118
+"147","1qpXhP3O5CSVQyc90dQeJc","Really Wanna Dance With You",0.689,0.869,0.0536,0.345,0.709
+"148","1rqqCSm0Qe4I9rUvWncaom","High Hopes",0.579,0.904,0.0618,0.064,0.681
+"149","1SqYy87R2qxTQa1PvDiM9Z","Runnin' (Lose It All)",0.324,0.604,0.0337,0.331,0.105
+"150","1TEL6MlSSVLSdhOSddidlJ","needy",0.647,0.309,0.0366,0.202,0.195
+"151","1TwLKNsCnhi1HxbIi4bAW0","House Party",0.747,0.861,0.0514,0.026,0.859
+"152","1U0nWcWMR1gyHEHBvx5YpW","You",0.575,0.66,0.211,0.313,0.714
+"153","1uTEsW6n80njACdk9HA8oA","Hundreds of Stories",0.607,0.407,0.0928,0.0741,0.558
+"154","1uuMZsFHm1G1O1xYvfk3Kx","The Weight",0.719,0.397,0.0369,0.109,0.258
+"155","1v4kdQ6zcsgHSxKMHefzKV","The Club",0.742,0.589,0.134,0.454,0.851
+"156","1VBsMiBqlCOD85hh8EDLht","Wrong Bitch - Extended Mix",0.876,0.677,0.287,0.124,0.525
+"157","1Vk4yRsz0iBzDiZEoFMQyv","Mia & Sebastian’s Theme",0.476,0.192,0.064,0.119,0.114
+"158","1WcofQlX3MkfAyPkV7c4pz","Higher and Higher",0.702,0.906,0.0525,0.214,0.898
+"159","1WHNqqRWhJVZIdCScFKtl5","Washington on Your Side",0.884,0.521,0.348,0.0756,0.425
+"160","1x8HxCXwPCLeuITTb4lF32","Crash",0.501,0.161,0.0516,0.181,0.663
+"161","1xkixhpqGe2KF5OkVMR9Jr","Vacation",0.666,0.855,0.0749,0.0839,0.887
+"162","1xQyCJMEijZvHU51bq80Ek","Imaginary Parties",0.616,0.708,0.224,0.143,0.599
+"163","1xWH8zYtDeS9mW1JJG23VZ","R.E.M",0.831,0.485,0.15,0.118,0.622
+"164","1ydK8hkHpfzaeLQe6smUwU","Dumb",0.839,0.729,0.236,0.0842,0.836
+"165","1YHT1FZv5t3ZFLsVPuy6Rq","My My My!",0.701,0.458,0.0836,0.045,0.482
+"166","1zHVZxX8p0OJ9Lkg4XNp4m","Goodbye From Lonely",0.756,0.663,0.0334,0.371,0.332
+"167","1ZOPkw0gOQbikXRhDSxBkm","Health Food",0.862,0.577,0.0995,0.383,0.629
+"168","1ZQwftFvuyrHrl41HA9dOC","Ultralife",0.442,0.782,0.0477,0.195,0.431
+"169","1zyrjK69LRZCvEmUtJUbsT","Someone Gets Hurt",0.271,0.687,0.0542,0.233,0.317
+"170","2078fabCzsGiI3npgMtcv7","Plastic Hearts",0.501,0.223,0.0623,0.103,0.236
+"171","20dyDdutlGUpKffvWOLpni","Ocean",0.233,0.629,0.0374,0.356,0.0647
+"172","20QRXRV7wUFOIgBQCGnUy3","Scream",0.632,0.843,0.0429,0.0662,0.542
+"173","21bID4wyC6UVdtmVMxRbUW","I See Stars",0.355,0.755,0.0702,0.115,0.238
+"174","21DTcIdnYhGiDvDArwyTpy","Cheers",0.712,0.758,0.0662,0.166,0.605
+"175","21xzFXSL2XkZ2mIzDDAqTK","God Must Hate Me",0.459,0.304,0.136,0.0951,0.072
+"176","21YnmkSDhUkmkkni22Svc4","In My Blood",0.622,0.709,0.0669,0.126,0.488
+"177","22oEJW6r2rMb9z4IntfyEa","Hey Look Ma, I Made It",0.577,0.833,0.0695,0.121,0.58
+"178","237OcsZneD4UBcBaNvcOPA","Elastic Heart",0.401,0.725,0.0686,0.36,0.508
+"179","24DY3aMlkXRovAiNhulFcq","Green",0.651,0.781,0.218,0.567,0.766
+"180","25ry9EyyRsp1dDctlAclin","Inside Your Heaven",0.38,0.596,0.0315,0.132,0.16
+"181","26IAAH7txHgGcc8b0ieKdF","Wolves (feat. Raphaella)",0.611,0.62,0.0367,0.14,0.309
+"182","27356GVuMPFWiJSZCragoM","make up",0.671,0.714,0.21,0.0568,0.477
+"183","27GaJQZLpalF6LRtIxXCaU","Pomatter Pie",0,0.19,0,0.11,0
+"184","27MB0qHaYAZiTlwg25js1Y","Stay Alive",0.723,0.415,0.395,0.0995,0.581
+"185","27R7X9XRLEQETpzoy3xvg1","Last Name (writing session worktape 1/22/07)",0.636,0.602,0.0624,0.168,0.688
+"186","27sm0bc1aa3ilSbJyWpwqc","Home",0.455,0.636,0.0506,0.0808,0.275
+"187","29Co9NKhOM5R9vWCrpkPPK","All For You",0.551,0.268,0.0427,0.0977,0.335
+"188","29Mqdak3JvesDNRmxy4bst","Little Dancer",0.501,0.379,0.0306,0.502,0.303
+"189","29T77Dodhi38rzX0WPrrxE","Supposed - Acoustic",0.412,0.533,0.0417,0.14,0.62
+"190","2aDofzh9K1mqXTaANEILES","Black & White",0.714,0.816,0.263,0.214,0.678
+"191","2AObG8D3AVTKVmdLWWSsSd","Big Man in Town",0.681,0.853,0.0369,0.225,0.413
+"192","2B3kOESoYsMNFr8LxijuIc","Glitter",0.527,0.285,0.0349,0.123,0.268
+"193","2bonbKENtFAQQh8U4UEAu5","Engagement Party",0.398,0.0662,0.0401,0.113,0.326
+"194","2bOWJIYSbhwg2NMQq1QMYH","Forward (feat. James Blake)",0.387,0.133,0.0474,0.107,0.0498
+"195","2BrEFY5Pip0ZrH9XehB0JA","My Boyfriend's Back",0.807,0.849,0.33,0.252,0.928
+"196","2cf4PlekPTPr0z1YO6UIXg","Lyin' To Myself",0.729,0.775,0.0871,0.0577,0.315
+"197","2cJS4uSqiNCeH4CgOt9LNA","Better",0.597,0.425,0.0295,0.1,0.309
+"198","2Czp64BykWyWfIssRXQZvT","Heart Hope",0.377,0.375,0.0505,0.108,0.0712
+"199","2debnSAcyNCJnR5ysByXDX","Temporary Home",0.432,0.353,0.0258,0.0897,0.19
+"200","2diXwZhccjtTaiZN5ZafHZ","A Soft Place to Land",0.49,0.231,0.0293,0.108,0.147
+"201","2djUFakeHHNfmpMj907vZ6","Hurt Any Less",0.604,0.82,0.0435,0.0876,0.563
+"202","2dwW50DVv7TJm68OnjxK1Z","Achilles Heel",0.51,0.599,0.0661,0.188,0.172
+"203","2e8nVei4B3HyfE3sDEvfLN","Moon",0.523,0.783,0.0331,0.22,0.723
+"204","2esoMR142Emu3VY54tx1AB","Don't Forget to Remember Me",0.355,0.641,0.0318,0.24,0.33
+"205","2fB3nWTsj1Aba2oJsAiTck","Stupid With Love",0.791,0.481,0.0705,0.0376,0.659
+"206","2FNPJWVdGxYhWaotd6rULS","Sandcastles",0.33,0.357,0.0348,0.19,0.101
+"207","2G7V7zsVDxg1yRsu7Ew9RJ","In My Feelings",0.835,0.626,0.125,0.396,0.35
+"208","2G9lekfCh83S0lt2yfffBz","Farmer Refuted",0.795,0.409,0.372,0.0548,0.577
+"209","2Gp6Q9EDhcNHcJiPctBCmk","flowers & sex",0.652,0.34,0.402,0.0691,0.545
+"210","2hew0QHOWxyf7JoiP8LVSI","How Would You Like It?",0.601,0.275,0.0303,0.164,0.246
+"211","2HhPYh9wefr3DkFKWFLeV7","I Didn't Plan It",0.624,0.786,0.174,0.187,0.609
+"212","2hloaUoRonYssMuqLCBLTX","bloodline",0.758,0.665,0.0774,0.216,0.643
+"213","2I8Z8AjStXpjXowdnrwePA","Stitches",0.612,0.244,0.0302,0.102,0.323
+"214","2kJqNHHGOzLNahukdvlDWN","Drive",0.657,0.456,0.0961,0.084,0.381
+"215","2KPBSnz8n5lXYXkLauQXa9","Know Me",0.546,0.646,0.0411,0.144,0.239
+"216","2kPpxNSgXRvu5yqkRLKJIu","Winter Wonderland / Don't Worry Be Happy (feat. Tori Kelly)",0.61,0.397,0.0504,0.0833,0.718
+"217","2KYyhbWmfbW4z8eMhFzme4","Dazzle",0.635,0.421,0.0448,0.163,0.608
+"218","2l3imSkvdlMxEzCLiZXLcM","Just Getting Started",0.597,0.912,0.0336,0.0675,0.884
+"219","2lfPecqFbH8X4lHSpTxt8l","Fade",0.791,0.652,0.0426,0.0804,0.494
+"220","2lMOo57ThDuatdDuNxxv9e","Get Down",0.495,0.774,0.0374,0.322,0.348
+"221","2lwi35A2ym3FAmSlvOGnQp","So Good At Being in Trouble",0.829,0.435,0.0515,0.119,0.594
+"222","2LYG1NNTRwnGuJEM7qtxFp","It Won't Be Long Now - Radio Edit",0.532,0.377,0.0519,0.169,0.391
+"223","2mBP9IsENazdoJ9ep5iR8i","Sunscreen",0.582,0.151,0.0353,0.0983,0.197
+"224","2mdNTPJ4xgwPZZsKEqXbK0","Tidal Wave",0.6,0.608,0.0521,0.137,0.384
+"225","2mKwJdkejPRSH5uan5lNjo","What's Wrong With Me? (Reprise)",0.391,0.224,0.0349,0.181,0.274
+"226","2P3uCJFlGDvQKXjOye6d5y","Mine",0.269,0.424,0.0528,0.381,0.127
+"227","2P91MQbaiQOfbiz9VqhqKQ","I Like Me Better",0.752,0.505,0.253,0.104,0.419
+"228","2qFIJT5hjqaNFA1GKwl9me","Take a Break",0.552,0.371,0.227,0.18,0.587
+"229","2QgNcjwEn0vGmTommfszQd","Lose It",0.52,0.329,0.0381,0.333,0.171
+"230","2qHxjFMmd3bmZ73QEjkrq7","mad at god",0.65,0.311,0.0494,0.108,0.403
+"231","2qnpIfc2VeojWsUFZYsclf","Fallen Angel",0.412,0.338,0.0421,0.154,0.413
+"232","2qT1uLXPVPzGgFOx4jtEuo","no tears left to cry",0.699,0.713,0.0594,0.294,0.354
+"233","2ri0m8ddy1fUSePTW9uW88","What Makes A Man",0.584,0.666,0.0464,0.105,0.211
+"234","2RQAG0wQt35UzAPEyVJFWN","Love Drought",0.455,0.535,0.0426,0.126,0.216
+"235","2RySKN3UwS64dv4xUpZ12f","Smoke Clouds",0.453,0.422,0.0426,0.112,0.472
+"236","2ScrwCtee5LnTrpQZfrxqJ","All About You",0.52,0.589,0.0304,0.0613,0.447
+"237","2sEq2rC3ynYsT49x7utWnd","Dear Theodosia",0.598,0.221,0.0303,0.0723,0.274
+"238","2sG0yXAHTuv37XpsgdN4cL","December 1963 (Oh, What a Night) (feat. Tituss Burgess)",0.764,0.756,0.0762,0.105,0.746
+"239","2soCr3tI1sJ6lFrxBPQVzQ","Cold in LA",0.676,0.624,0.065,0.104,0.726
+"240","2t2ZWNGHKBD0egqxtCLloy","Paradise - Acoustic",0.644,0.514,0.0315,0.144,0.589
+"241","2tbu7dOzCjM5JrPGr0sIes","drunk text me",0.531,0.494,0.0317,0.0888,0.24
+"242","2TK2KSrzXD6W01qjXVjNGh","The Room Where It Happens",0.638,0.49,0.426,0.664,0.511
+"243","2TqWayWYGNjqfTpapyveyu","Low",0.806,0.879,0.0824,0.318,0.617
+"244","2Uk0aFqYCtecHL5MCq2we0","Secret For The Mad",0.491,0.0861,0.0565,0.0932,0.391
+"245","2UtpQrUYcBi8H0XehwU2Iq","Emergency",0.614,0.663,0.0499,0.189,0.435
+"246","2v4X20YmHDM6c3J0jDS1is","Cure",0.317,0.468,0.0358,0.109,0.155
+"247","2vdBo4ALPYbHRUPKgtE5iC","ghostin",0.287,0.364,0.0306,0.185,0.11
+"248","2w9nvs1ByWUGkED4M0ug34","Unloving You",0.765,0.393,0.0311,0.142,0.224
+"249","2W9u3whoCkQYOUbmnSrHi1","What'd I Miss",0.539,0.577,0.386,0.14,0.319
+"250","2wCVpdNSHjqIn2en8jAnF0","Paranoid",0.701,0.241,0.0515,0.149,0.132
+"251","2WSqVUcwbcVLWJhST2yXxM","Jaywalk",0.509,0.874,0.146,0.716,0.545
+"252","2WW9X7mc7lE8DbE4WbTNwI","Psycho (When I Wake Up)",0.612,0.782,0.0296,0.123,0.57
+"253","2XELtFPg5H2Xmg6eas6dII","High On Humans",0.553,0.918,0.0594,0.0776,0.756
+"254","2xKy8HbpMFgHV2xZhpQf12","You Broke Me First",0.399,0.274,0.0313,0.109,0.198
+"255","2xUcsMzJrII3LhmcxNHIWJ","This Town (feat. Shakey Graves)",0.59,0.274,0.0337,0.114,0.38
+"256","2Y4ouk1wtuoOv96oapPwZv","Sexy Ladies",0.705,0.778,0.0617,0.145,0.903
+"257","2yBMVrq96wb9OHbMdBs0lF","A Winter's Ball",0.854,0.327,0.507,0.0889,0.688
+"258","2ydKgIVZAQXeYLWtxU8DFS","Stay Alive - Reprise",0.546,0.246,0.26,0.0801,0.427
+"259","2ySPkHH3mHCP3r3T040M5V","I Lost Myself In Loving You",0.456,0.615,0.0529,0.0908,0.416
+"260","2zXRAZvUb2B5PzJGwCtFe0","Chasing Fire",0.709,0.562,0.0724,0.217,0.386
+"261","32bZDrurIGh2Cts0l2tRtL","Words Fail",0.368,0.237,0.0389,0.122,0.328
+"262","35xkenzfDhEA1LEpJsprKu","wish you the best (feat. Jensen McRae)",0.509,0.185,0.0286,0.259,0.0455
+"263","36Cb3pIptwzM0uyMVXk7oP","What A Heavenly Way To Die",0.715,0.632,0.0348,0.0923,0.586
+"264","36tVh8MZ2bxliGj0eJyKsX","that was quick!",0.755,0.399,0.269,0.0948,0.689
+"265","373q2bp4ZvyJ9kFZcpJSMs","Breathe",0.32,0.393,0.039,0.341,0.193
+"266","37OjMlwuUVWWmVKrV8CiUQ","Stand Up",0.498,0.702,0.0401,0.0669,0.542
+"267","39LmTF9RgyakzSYX8txrow","imagine",0.729,0.475,0.0364,0.12,0.371
+"268","39ncDMVidHOeQgeC5anYZM","Someone In The Crowd",0.616,0.538,0.17,0.192,0.278
+"269","3BDcHGw6wUIisZJw0ndKQb","Somebody To Love",0.757,0.515,0.0395,0.125,0.414
+"270","3BDxv4ORzOpXAsa4lWVl4i","(Fuck A) Silver Lining",0.577,0.939,0.108,0.24,0.714
+"271","3bL4eSfzwYomgHWyrIbQtS","Thanatos (End of Us)",0.649,0.571,0.0342,0.178,0.36
+"272","3BuPop8SzLG2Q88TJcFAjp","Raised On It",0.59,0.94,0.0409,0.379,0.732
+"273","3BZYRhdrqH7jL2OGInv31y","You Will Still Be Mine",0.621,0.419,0.0356,0.36,0.229
+"274","3cUQUcDvzrbfSFXHpLvdXf","My Friends",0.509,0.267,0.0485,0.121,0.304
+"275","3D4J0o9w44QKFrBrYrSVJY","What Comes Next?",0.515,0.302,0.079,0.199,0.277
+"276","3DKCYiD9C6ZBeqDzisTofP","Animal",0.335,0.314,0.0411,0.295,0.0528
+"277","3dP0pLbg9OfVwssDjp9aT0","Satisfied",0.707,0.593,0.0949,0.15,0.478
+"278","3e9HZxeyfWwjeyPAMmWSSQ","thank u, next",0.717,0.653,0.0658,0.101,0.412
+"279","3Elmf5TdCmvfq8WZcncMhb","See Your Face",0.569,0.323,0.031,0.117,0.495
+"280","3exRCJnBrKSRhGXR4kcakZ","Roses",0.289,0.34,0.0295,0.0864,0.215
+"281","3F183btjhLzvCmf8IneLFN","Future Friends - Brian Robert Jones Choir Remix",0.627,0.533,0.0315,0.0915,0.2
+"282","3FBx1XOA110HBJqZZgwjc8","No One Won The War",0.434,0.472,0.0289,0.102,0.115
+"283","3fOCHVP6W1uXr2kkZ1dzm0","Waste",0.581,0.389,0.0331,0.118,0.163
+"284","3GAf6qSgBHm3t80FYD7tyh","Cowboy Casanova",0.598,0.82,0.0566,0.119,0.55
+"285","3gbwtdRrtD05lz08DTxfFt","City Of Stars (Humming)",0.564,0.0136,0.0349,0.111,0.397
+"286","3GY6130rSCMWPWtQ4caG1l","Worth It (Perfect)",0.661,0.473,0.129,0.0811,0.333
+"287","3H7oAhHxkEkSf9iomv2mbG","could cry just thinkin about you - Full Version",0.515,0.323,0.0429,0.106,0.188
+"288","3i2Z14K9Tkjak0nMTicrw0","Moving Parts (Guitar Version)",0.559,0.269,0.0338,0.177,0.502
+"289","3i8zsYoNVBR70hhGaZUbxK","The Negative",0.58,0.601,0.199,0.294,0.633
+"290","3iISGrl3JKqPQ4GLqPjVkt","World Burn",0.242,0.731,0.0833,0.292,0.265
+"291","3IpOgKkvF7z0SZ9TaPovTy","Stop",0.6,0.502,0.179,0.184,0.696
+"292","3j7vuSGbBECw6fUNfwmEfQ","How Great Thou Art (with Vince Gill) - Live from ACM Presents: Girls' Night Out",0.305,0.578,0.0336,0.688,0.153
+"293","3JG2VnwaVmVLf8BUGw7QlK","L.A. Baby (Where Dreams Are Made Of)",0.344,0.882,0.0577,0.338,0.344
+"294","3JGhIr4i7Pg182Q9uRZ4Ly","Walk Like a Man",0.712,0.795,0.0352,0.165,0.93
+"295","3JJYIoJ5FyY9E0DGjr7SXF","Enemies",0.696,0.693,0.044,0.122,0.601
+"296","3JTjLyrnevl9ASw3ayGO2P","GUY.exe",0.77,0.732,0.0508,0.157,0.889
+"297","3kPlrkX2iesfEzBECwcZS8","You're Nobody 'Til Somebody Loves You",0.323,0.917,0.228,0.0896,0.5
+"298","3l6KjLWTn3iyyH4YCn8Ec9","Take It from an Old Man",0.588,0.368,0.0318,0.106,0.388
+"299","3lXyAQ0kekAvY5LodpWmUs","Ten Duel Commandments",0.887,0.516,0.658,0.617,0.828
+"300","3NbTQ8ZbHU6MSEVUFAVCJ9","better off",0.597,0.524,0.0537,0.112,0.0549
+"301","3nJYcY9yvKP8Oi2Ml8brXt","Right Hand Man",0.68,0.413,0.492,0.205,0.383
+"302","3o9kpgkIcffx0iSwxhuNI2","Numb Little Bug",0.742,0.527,0.0769,0.25,0.638
+"303","3OIoLMnnWzAUORFQxRAhdF","You Matter to Me",0.43,0.231,0.0295,0.116,0.153
+"304","3PeoRObpd6eWdK7jyfyhpf","Color",0.511,0.543,0.0602,0.353,0.535
+"305","3PfOr0zcqy2aOqHaMxnzbK","Faded",0.337,0.453,0.0316,0.115,0.277
+"306","3pSR2gO4oZgQspQNKO6xRD","Get'cha Head in the Game",0.833,0.745,0.131,0.0711,0.663
+"307","3QlF2ExmrRP0RM7ffv7y0Q","Lost Without You",0.409,0.137,0.0446,0.0706,0.106
+"308","3qLGJcwgb2Pe9xiCHpxgpH","C'Mon Marianne",0.451,0.747,0.292,0.146,0.816
+"309","3qNdf4NMZclvCmerKJhEQn","Hotline Bling",0.632,0.253,0.0395,0.106,0.311
+"310","3RUMYJ7hRzZA5Qzf4QlfCz","Whose House Is This?",0.823,0.886,0.159,0.826,0.59
+"311","3RuXekS5criwismaaj87iF","A Night to Remember",0.798,0.904,0.0476,0.0522,0.966
+"312","3s9itRgJYcKhem01P17865","Say No to This",0.754,0.535,0.305,0.19,0.395
+"313","3scJqnmOvZm71FIjO5WMbj","You're Nobody 'Til Somebody Loves You - Acoustic",0.55,0.808,0.378,0.076,0.896
+"314","3SjQ4I8IHB8HljhIrkGq3G","Before He Cheats",0.502,0.786,0.0425,0.157,0.28
+"315","3SMxd9vNy41n9Xk4UFw36S","Just Wanna Be With You",0.547,0.723,0.0323,0.112,0.377
+"316","3sZfQB5uYTJmA4QnB8dv7P","White Blood",0.477,0.229,0.0555,0.196,0.0819
+"317","3TfKt8mPpdXfQTMfRjHzyz","Cabinet Battle #1",0.607,0.658,0.423,0.489,0.513
+"318","3u5bTqHMM1P34ZkbwzdckV","The Story Never Ends",0.614,0.126,0.0376,0.148,0.351
+"319","3uYxmgnOA9lJYAsHyEbbWA","Intertwined",0.433,0.126,0.0384,0.115,0.0782
+"320","3v3YuWdpULn9y8xjQCQS6C","Dear Baby",0.603,0.0414,0.18,0.125,0.181
+"321","3vqivv428r4JzdiEmkefb5","Don't Wanna Be Your Girl",0.642,0.211,0.0504,0.108,0.171
+"322","3wFLWP0FcIqHK1wb1CPthQ","fake smile",0.45,0.619,0.372,0.319,0.427
+"323","3wnQIQhFQ6cwgmkXWSiHMg","No Place Like Home",0.284,0.687,0.136,0.0783,0.331
+"324","3WP4iglY7SPmXucvNLJq2G","erase me (feat. Jacob Collier)",0.415,0.453,0.0595,0.131,0.305
+"325","3WVhkjB7Y4xFruqoCAajBb","Sue Me",0.46,0.809,0.326,0.138,0.609
+"326","3wwO0kUiwpyzHdkMNoifLR","Shark",0.703,0.327,0.0489,0.112,0.128
+"327","3wx2kQWPn9p5UppQbNhPAk","Leave The Night On",0.514,0.951,0.0603,0.349,0.838
+"328","3X3mfRMRaPJRiIMDMQtSkd","Landslide",0.624,0.423,0.0628,0.103,0.325
+"329","3XORxkPQFd8ZGN7wO5kJbs","Heartbreaker",0.714,0.725,0.066,0.0977,0.786
+"330","3ymrR3hOphsdFEIVGeISv4","Work",0.602,0.487,0.164,0.0995,0.458
+"331","3YOS1yKPj5znn4SnRXR6bD","Future Friends",0.757,0.652,0.16,0.0702,0.573
+"332","3Z2anmIVG8b1GelyeFQdnP","Maine",0.533,0.24,0.0424,0.223,0.265
+"333","3ZiuxcBeRanTjfHzVBuuQe","Would You Be So Kind",0.662,0.616,0.206,0.126,0.614
+"334","40LYL1Z6xgCn5cBybo5K0D","It's Quiet Uptown",0.484,0.187,0.0423,0.0785,0.227
+"335","41CgzGD7xlgnJe14R4cqkL","Paris in the Rain",0.426,0.408,0.0524,0.394,0.528
+"336","41mYUxw1L4DCHSgpWHcmAy","Benny's Dispatch",0.768,0.51,0.367,0.112,0.172
+"337","427R4ktPgrbkCnGROY2gX1","Expensive",0.81,0.78,0.189,0.119,0.614
+"338","42kiFUenq5MVKpmCwjh1Cu","Do This Thing",0.555,0.74,0.129,0.167,0.618
+"339","42ZSEXG0TtHAHbWOho7GDS","How Do You Dress for the Rain?",0.605,0.311,0.0813,0.113,0.165
+"340","43YC4iYmSsYueViJR4dBGA","Nothing Else Matters",0.452,0.668,0.0292,0.112,0.142
+"341","44eVgppJeN0rjRS44LboFQ","In the Heights - Radio Edit",0.684,0.569,0.307,0.0777,0.808
+"342","44MbQfwZbB8h6AH73EaVNx","Proud",0.702,0.647,0.373,0.559,0.896
+"343","48jKLs2qqEXKsQTmYHE0JD","Lifetimes",0.653,0.647,0.0844,0.12,0.785
+"344","48v15xjPv3Pm7nn659GG11","New Tattoo",0.652,0.908,0.21,0.146,0.609
+"345","49cMvxwJyXAGHAoXRi1cBn","Don't Miss Me?",0.667,0.722,0.0676,0.2,0.385
+"346","4A1GfEVOELS3vo4tSa6bts","Sexy",0.816,0.633,0.11,0.224,0.403
+"347","4AboqNl74jNDpJhPfqYDmj","Your Love Is My Drug",0.829,0.607,0.0897,0.0986,0.766
+"348","4ACUqCQRh7tH6GPY5cg8rI","Selfocracy",0.281,0.24,0.034,0.369,0.0901
+"349","4AeL5jqJOg30DBEEqTmdTD","Kicks",0.555,0.884,0.071,0.0537,0.367
+"350","4AFBCemec0cYa2JLXqvH9M","WHERE I WANNA BE FOUND",0.628,0.693,0.0448,0.653,0.691
+"351","4AIdHWPAlCj2A8DuxQovVW","Lions and Tigers and Bears",0.559,0.46,0.0465,0.148,0.431
+"352","4B3qvzOMzLQXLeYgPsG3KA","Burn",0.582,0.428,0.0516,0.102,0.255
+"353","4b7mLZQWsy0rLnrMtPA9fQ","borderline (feat. Missy Elliott)",0.761,0.818,0.0978,0.11,0.348
+"354","4C1fQ3hwEpWCgFBGT2pYlJ","Everything (feat. Inara George)",0.767,0.766,0.0771,0.271,0.432
+"355","4CcFukK8i4OaX1mgKh0Upq","Dialogue: A Little Trouble",0.723,0.0958,0.913,0.78,0.792
+"356","4cqj8FIWkyR5A2XBtcqRMU","God Is A Freak",0.569,0.405,0.0606,0.133,0.648
+"357","4cxvludVmQxryrnx1m9FqL","My Shot",0.698,0.649,0.415,0.0903,0.568
+"358","4d2F9OJ7JljkO1Qw7AQ2lT","The Early Years: Scrapbook",0.633,0.377,0.465,0.147,0.336
+"359","4DActPOAtak2m8meZeMt3B","No Angel",0.571,0.466,0.173,0.125,0.512
+"360","4dIf8rYJXcnJvyuxB1dUEv","Lie Down",0.598,0.952,0.18,0.0502,0.593
+"361","4dS1QQw8askb1KSDLCKuvK","In the Heights",0.622,0.468,0.435,0.337,0.692
+"362","4DXfOXYv0ki7IR3P0XRcMY","Speakers",0.594,0.459,0.0419,0.169,0.316
+"363","4eeN8erNIbW2osT0knz5vT","I Know Him",0.67,0.436,0.364,0.722,0.378
+"364","4f6PUDRYJI51UrZy0jDAxD","Herman’s Habit",0.588,0.593,0.052,0.214,0.668
+"365","4fFfyouye6vrX9o9z4PVMu","Never Not",0.47,0.221,0.0371,0.104,0.264
+"366","4FtGhkcEHma8WjuzFYSr2o","Plum",0.693,0.594,0.0469,0.0764,0.565
+"367","4G4gtvlaFaI6v6wWD8UvqL","Getting Over You",0.604,0.507,0.0382,0.0943,0.114
+"368","4G92yYrUs0cvY7G41YRI0z","Jealous",0.439,0.153,0.0479,0.107,0.104
+"369","4gtkHMuEMhysN6ZitUSRBf","Full Time Job",0.631,0.805,0.0632,0.172,0.906
+"370","4GUj9MfPPkjpZskxb45uiX","ANGELS & DEMONS",0.554,0.8,0.0395,0.629,0.463
+"371","4GXi5NpSAl484AcIXpSCst","Dialogue: See How You Handle It",0.585,0.256,0.811,0.395,0.96
+"372","4h3uzwjfWKfs6uwwRsXQNK","Champagne",0.704,0.378,0.39,0.0735,0.188
+"373","4HffeEF97c6UxNePgbuECW","Pancakes for Dinner",0.753,0.266,0.0478,0.11,0.321
+"374","4hUR3thIs01mQUtVmZFJ8F","The Overpass",0.517,0.955,0.167,0.364,0.61
+"375","4igUCtHylTwomJlo64j8D2","Exploration",0.636,0.865,0.0307,0.224,0.706
+"376","4IHVolndlbbR0eOGLXAeih","Dirty (feat. Lil Trip)",0.772,0.729,0.0876,0.0836,0.545
+"377","4IqpjoA1UfQ7FiJfMckYra","Bad Reputation",0.557,0.687,0.079,0.244,0.312
+"378","4JCcXmANxb48z3WTeUHiJp","What I Put You Through",0.497,0.293,0.0287,0.0862,0.264
+"379","4JE6agBLHGA5TaF6FlqfBD","As the World Caves In",0.331,0.45,0.034,0.22,0.18
+"380","4JYBmZcCjPOUg5cofekIYX","Hurt Me",0.768,0.435,0.0857,0.122,0.157
+"381","4kGosxkoPLvXErWxKV2Asv","(Sitting on The) Dock of the Bay",0.813,0.457,0.0368,0.0954,0.516
+"382","4ks6j7JsfJorc1tb4THJo8","Don't Let Me Down",0.446,0.37,0.0464,0.126,0.209
+"383","4kV4N9D1iKVxx1KLvtTpjS","break up with your girlfriend, i'm bored",0.726,0.554,0.0917,0.106,0.335
+"384","4lM46UnoFn4FP074aYWGxS","Trouble - from ‘Three Months’",0.493,0.858,0.0641,0.292,0.391
+"385","4lnnde7PnrXR3pUzQKBe6X","Little Toy Guns",0.434,0.868,0.0603,0.0919,0.204
+"386","4LRPiXqCikLlN15c3yImP7","As It Was",0.52,0.731,0.0557,0.311,0.662
+"387","4mLkiFppf8Xvem6BSY34qw","blazed (feat. Pharrell Williams)",0.795,0.759,0.0528,0.0805,0.855
+"388","4nna9JONFIwr98bcX6tlta","Sincerely, Me",0.677,0.731,0.12,0.103,0.603
+"389","4nrtux8xl5lYegU8II5rAQ","Single For The Summer",0.556,0.85,0.0417,0.278,0.516
+"390","4nxMHRNNfrOZWg8NAKXnV8","Adrenaline",0.644,0.688,0.108,0.0741,0.616
+"391","4o1ZZ9TrcwCvqp7wIO0n7l","When the Sun Goes Down",0.567,0.231,0.0537,0.132,0.0612
+"392","4OafepJy2teCjYJbvFE60J","breathin",0.568,0.656,0.0433,0.213,0.364
+"393","4Oq3R4drZZfGWdxbhKrPvb","Undo It",0.476,0.847,0.0595,0.0478,0.663
+"394","4Or1Yp4i3VANJE6E39ys91","In a New Bed",0.466,0.189,0.032,0.0899,0.0727
+"395","4oUvqlTyJeSkJ0XjbkKVRk","Bad Idea - Reprise",0.53,0.905,0.143,0.131,0.598
+"396","4pPIWWOny4xWSiSRPsIY1c","Mama's Song",0.354,0.664,0.0352,0.0835,0.235
+"397","4pZ8WNPIuBAfmq09vLMuOx","Team8",0.691,0.551,0.035,0.0822,0.32
+"398","4QNuz0m2QCn2Yw1sCUNIS2","Meet The Plastics",0.44,0.584,0.0844,0.651,0.384
+"399","4qNvynwk1nrS0f8Wb4zXIh","Postcard (feat. Gordi)",0.43,0.36,0.036,0.0967,0.247
+"400","4qSsjDGXplb6422X2INvFW","Say Amen (Saturday Night)",0.491,0.867,0.103,0.458,0.602
+"401","4r9hiElqKWMPT4Z3vN2exq","A Lovely Night",0.364,0.478,0.0473,0.124,0.493
+"402","4RINHMTRqIFb61Y4GjoYR4","Piragua",0.736,0.542,0.0451,0.0398,0.83
+"403","4S3DXtdTdgOIezKgu8DR0M","Summer Montage / Madeline",0.596,0.502,0.0277,0.264,0.653
+"404","4SarHQAmYeNtRqFG7g5Ewg","C'mon Loretta",0.52,0.922,0.0337,0.296,0.844
+"405","4T652DlATVHe0jdLKaN3Bw","in my head",0.662,0.6,0.0703,0.109,0.331
+"406","4tG0cdbL7v4pQ8RWOqLDHx","When He Sees Me",0.734,0.464,0.0449,0.0769,0.424
+"407","4ThTvhGNae80mrLsMzs4Hb","He Won't Go",0.706,0.569,0.0861,0.0731,0.71
+"408","4TTV7EcfroSLWzXRY6gLv6","Alexander Hamilton",0.609,0.435,0.285,0.118,0.552
+"409","4ujKY4DaGQS08wykMsFSEd","So Hot You're Hurting My Feelings",0.795,0.576,0.0289,0.121,0.847
+"410","4UMWqTR58mUBRkFQkc0tle","Heavy",0.349,0.382,0.0452,0.102,0.204
+"411","4uTvPEr01pjTbZgl7jcKBD","NASA",0.747,0.458,0.303,0.252,0.47
+"412","4VM6WUdnRnBv6cHAjyzxcK","Disappear",0.451,0.634,0.118,0.226,0.298
+"413","4vxA3aI7l73i0Hi819OQhH","Despacito",0.686,0.475,0.0748,0.501,0.743
+"414","4W3QcMXjWVYEiNe4khtNUF","I Told You So - feat. Randy Travis",0.393,0.552,0.0283,0.101,0.217
+"415","4wGQyb9nw8z9hgd7D8Gowo","Fools - Live At RAK Studios",0.565,0.253,0.0309,0.11,0.229
+"416","4WQJPsbGOdqe24mUVHa8xb","Now Or Never",0.747,0.983,0.181,0.706,0.553
+"417","4WZMggnO37eRLo58CyOC4p","The Good Side",0.426,0.284,0.0616,0.362,0.311
+"418","4XbQLaWyFkXTwPK33kxWQJ","I Was Made For Loving You",0.374,0.344,0.0304,0.0966,0.216
+"419","4XBrV9jr6wWNMp0scobPhZ","Echoes of You",0.4,0.627,0.0633,0.0837,0.377
+"420","4xtpy5lEYd3Feg17826h4d","With Love",0.429,0.445,0.0265,0.239,0.201
+"421","4zfnkr9LJD4syMzSZIeCIP","Save My Soul",0.374,0.701,0.0416,0.0504,0.198
+"422","4zQiuvLmOFXI9lRxBEeb94","Library Card",0.641,0.556,0.0423,0.0916,0.311
+"423","50Hv5NZIM0puIUoBttjpfb","King of the Clouds",0.285,0.922,0.247,0.159,0.472
+"424","51bgtAyOMjeNaQFeQgaA31","Atención",0.744,0.0476,0.0705,0.114,0.426
+"425","51ioMR2DpsASwe3q0goyRw","Dawn (Go Away)",0.61,0.763,0.0724,0.0848,0.62
+"426","51wrmElSLxFzc0vSQPeTxs","Where Were You In The Morning?",0.709,0.516,0.0615,0.0992,0.465
+"427","51z8j9rLSj0p5mikST2BCA","Life Lesson",0.557,0.179,0.207,0.115,0.718
+"428","53LWnHbfoBuARHoAtEwrBY","Overgrown",0.565,0.475,0.0319,0.0861,0.7
+"429","53sz4K5pKUWMINwSgD5peH","It Roars",0.537,0.753,0.0609,0.161,0.579
+"430","54rSdGS2kN6SWk2iblAs4M","Man of the Year",0.668,0.568,0.143,0.15,0.349
+"431","54Sc7mZQ1RM03STpk4SfaA","Helpless",0.688,0.491,0.269,0.0914,0.737
+"432","57y6Ioqgkt6Jk5kmj3CtIC","What's Inside",0.401,0.211,0.0398,0.289,0.164
+"433","58qX77t2VWMWcycsh9zKLc","i don't want to watch the world end with someone else",0.535,0.359,0.0607,0.111,0.488
+"434","58SvbpXjfZdKeRzxoBMR72","Vacant in the 21st Century",0.246,0.607,0.04,0.104,0.147
+"435","59CfNbkERJ3NoTXDvoURjj","Boyfriend",0.345,0.612,0.0608,0.194,0.232
+"436","59fLfqjoS3GvAU6zUBgCk7","Breathe",0.491,0.254,0.0543,0.105,0.145
+"437","5ACLhZ2tV7NT18Eyct5sMP","Bad 4 Us",0.722,0.856,0.0315,0.156,0.905
+"438","5ASYKV7L20Xz5Cub2t4FeA","Suicide",0.447,0.595,0.0492,0.152,0.323
+"439","5AWmfB2DvoJ5qVRFX4bVmW","Stupid With Love (Reprise)",0.631,0.211,0.163,0.186,0.672
+"440","5AZVHaXrPhAXzLzdWEYoWy","Paper Thin Hotel",0.483,0.0512,0.038,0.0956,0.0398
+"441","5BIpXA4kKrxvQqCRDDqotL","June Haverly",0.471,0.041,0.0337,0.108,0.291
+"442","5BMwpS4iYKR30kq9U9beaT","City Of Stars",0.585,0.0809,0.0523,0.0935,0.204
+"443","5cEa4f3UmbpilaLlw04WlA","Papi",0.702,0.676,0.16,0.131,0.839
+"444","5cesclKWAhsCcZJDBhkWaa","I'd Rather Be Me",0.679,0.803,0.125,0.27,0.808
+"445","5CqXrqDRXfF5jNVwT0nmPF","When - Live",0.321,0.179,0.0312,0.108,0.284
+"446","5DizlXTwJjjwxxqGNChcvO","Little Bird",0.826,0.485,0.0354,0.107,0.278
+"447","5dSv9WTw9eKZTvgIr1U2PU","Simple Man",0.561,0.336,0.0511,0.0957,0.428
+"448","5EBd8sbeMSyIotWaMnR7s4","Right Here, Right Now",0.562,0.797,0.0356,0.0752,0.296
+"449","5GhJIMWAw0uMLgkdbt6uMz","Fallin’ (Adrenaline)",0.606,0.9,0.119,0.075,0.233
+"450","5gxRxuh3Vj7FWHW7Pgk5Z3","Rag Doll",0.666,0.666,0.0592,0.353,0.578
+"451","5I8oEqbk2ZBmQfXCrZbUFb","Fallin' All In You",0.853,0.477,0.0362,0.111,0.8
+"452","5Il6Oe7lr5XM7A0cWbVQtr","bad idea",0.847,0.579,0.0719,0.102,0.569
+"453","5Jac5r26r1HkpH9Xv5zt7A","Duet (feat. Stephanie Briggs)",0.213,0.185,0.0327,0.111,0.182
+"454","5jOQ5v49S1h496AiNlk682","Plans",0.458,0.298,0.25,0.0631,0.144
+"455","5kRBzRZmZTXVg8okC7SJFZ","Another Day Of Sun",0.588,0.742,0.0528,0.653,0.824
+"456","5kRGhvnoCWgw7cNgwSSQI2","Paciencia Y Fe",0.544,0.407,0.117,0.176,0.574
+"457","5kSsjxq5pWQ7eH5l7jnyY7","Everything I Know",0.508,0.169,0.0553,0.136,0.15
+"458","5M2LiZ8SmRFWl1IJ0F7JNR","So Big / So Small",0.447,0.2,0.0423,0.108,0.28
+"459","5m4RHs0THdfyn579MONxcV","High School Musical",0.529,0.931,0.102,0.411,0.624
+"460","5mGI9cWHzNHGZG8RhzorWT","We're All In This Together (Graduation Mix)",0.484,0.633,0.0288,0.116,0.352
+"461","5Mma25t3nzqRksf4Z1Lzq2","All-American Girl",0.617,0.835,0.0305,0.296,0.738
+"462","5mTJcvxRxq3uF5wUjjciDw","Lucky Strike",0.612,0.694,0.0514,0.0914,0.564
+"463","5nlhTV8XsmfBahjHv9TnLB","Flying Monkey Lament 2",0.526,0.859,0.0609,0.234,0.784
+"464","5nO5Hrh7KlABfSqEa8OdWl","War",0.603,0.341,0.0336,0.101,0.195
+"465","5o6GnHeA8voabKhVBT8Og3","Free",0.711,0.537,0.0417,0.149,0.558
+"466","5OCJzvD7sykQEKHH7qAC3C","God is a woman",0.602,0.658,0.0558,0.237,0.268
+"467","5P6p5awCY4sMgcOqLUQcJZ","Piragua - Reprise",0.593,0.504,0.104,0.152,0.647
+"468","5pLpkaIRobcvPnUmclNv6o","Technicolour Beat",0.597,0.363,0.0314,0.0848,0.0785
+"469","5Q41ne9bvWMh5NZXgmMIyc","I Love You Like a Table",0.739,0.642,0.0403,0.118,0.809
+"470","5qJZxVKQ8vz9Rak3t4b2VY","This Is My Version",0.632,0.38,0.0301,0.0992,0.588
+"471","5QOKsL8sdbosNPxDFJNPQz","Last Call",0.636,0.528,0.0346,0.326,0.27
+"472","5qOmZ8D5KueySUYqkyYypI","Hurry Up!",0.848,0.554,0.106,0.0458,0.772
+"473","5QskYLFPX9y7pLU0VEMNbr","Like To Be You feat. Julia Michaels",0.736,0.45,0.228,0.108,0.663
+"474","5qxA5VdQTVSGMPbbIlQoeZ","Two Black Cadillacs",0.554,0.847,0.0587,0.0746,0.414
+"475","5S9Zs5g9lTWnLIboN1pdlU","Fingers Crossed",0.603,0.473,0.0511,0.31,0.446
+"476","5sTC1imYc0QzNe3i5snLy7","I Want It All",0.791,0.813,0.139,0.0549,0.913
+"477","5StojELSdCvj23qhF9OxDW","Fighting For Me",0.645,0.727,0.0492,0.282,0.152
+"478","5SwEgzUFDHwpWHKrbnP32Z","Youth feat. Khalid",0.518,0.596,0.124,0.133,0.326
+"479","5trCWbYtza0QUxdmF9HAPX","One of the Drunks",0.424,0.892,0.193,0.711,0.762
+"480","5uTOkGtpc8KxzyHI0Pj3AZ","Cry for Me",0.552,0.336,0.0283,0.0726,0.431
+"481","5WAD7GRAHPQUy9Il1hM7wL","Bracelet",0.652,0.737,0.035,0.224,0.274
+"482","5WbqaQnjhI5oAN5QHvxd7x","WAIT FOR YOU",0.864,0.468,0.0625,0.108,0.29
+"483","5YeHLHDdQ4nKHk81XFWhCU","successful",0.847,0.603,0.0397,0.106,0.735
+"484","5yVIlYEHZxQVLyInCdldoS","Impossible",0.376,0.695,0.0933,0.11,0.302
+"485","5zvJELVKAnPkscGc5aLKJI","Certain Things (feat. Chasing Grace)",0.511,0.621,0.123,0.0893,0.266
+"486","60d7tazuuyrx3FiU30eRja","Mirror",0.428,0.582,0.0413,0.107,0.129
+"487","61zQ8XDgOYslFGzfhK823e","Senior Year Spring Musical",0.44,0.89,0.0873,0.0908,0.43
+"488","62hWYjPL57rbUd5rhvI3Of","Papercut",0.647,0.92,0.041,0.357,0.242
+"489","63qapUS8yLKz0tb0eOgOTF","Million Eyes",0.599,0.471,0.0281,0.0996,0.141
+"490","63tp4KO47Rqx4DuaKPhqE0","Say You Love Me",0.169,0.577,0.0425,0.0867,0.138
+"491","6433GYPXbZUJWTCIdhW1as","To Break In a Glove",0.652,0.423,0.446,0.111,0.426
+"492","68Ijc4fPmT3P5BN6Vrl2s2","The Adams Administration",0.8,0.362,0.544,0.121,0.792
+"493","68NhL5s2ie3hmDyXLhoNp5","If I Had A Heart",0.532,0.486,0.165,0.126,0.296
+"494","68ZnB4sxvK5GxyYsUhntml","Whisperers",0.235,0.514,0.0336,0.186,0.0896
+"495","698ItKASDavgwZ3WjaWjtz","Faded",0.468,0.627,0.0476,0.11,0.159
+"496","6BBfG9FiwJhRVMCd9IYl6c","In The Middle",0.823,0.52,0.0831,0.0772,0.685
+"497","6bpBsotzL05UzS1rHsIqk8","Livewire",0.625,0.434,0.0391,0.119,0.166
+"498","6bVcqoYbuS9h7O5XuxAXcf","Josh",0.618,0.449,0.0868,0.168,0.634
+"499","6C7KDGm5j5x1hrLf7H5X11","New Age Meds",0.383,0.836,0.0389,0.118,0.469
+"500","6c7N5N7amAOpeMykjlovjI","Walked Through Hell",0.508,0.404,0.0788,0.104,0.129
+"501","6dAmJrs595jDyE8PG0GS6R","Higher",0.762,0.605,0.0344,0.19,0.688
+"502","6DEaND0SHv3sC11xobZLiy","Take Your Time",0.558,0.719,0.0419,0.212,0.483
+"503","6Dno7FrbG6vnTm9KfjFwf6","Come Back Home",0.435,0.473,0.0415,0.142,0.327
+"504","6dr7ekfhlbquvsVY8D7gyk","Aaron Burr, Sir",0.646,0.439,0.818,0.0945,0.528
+"505","6e2a0ZHDhq5FOhfaZExyez","Only the Lonely Survive",0.506,0.874,0.102,0.116,0.415
+"506","6ehYNUmLSn9XpgwaSDxucx","Never Forget You",0.393,0.614,0.0949,0.397,0.195
+"507","6epvwUINain4iSHCTWA0sj","The Village",0.55,0.363,0.0336,0.128,0.286
+"508","6eR1N0EBHiDkGDzegX99d3","Sorry - Original Demo",0.546,0.26,0.125,0.128,0.421
+"509","6eR8u06oZFhoBMaKl0xBZp","When You're Home",0.581,0.58,0.181,0.0947,0.267
+"510","6g0Orsxv6glTJCt4cHsRsQ","Formation",0.896,0.621,0.237,0.196,0.818
+"511","6G2uVbSNKUeIE5CdOF1Y1p","State of the Heart",0.414,0.807,0.0844,0.0922,0.357
+"512","6g5aFo8FsHjl47LGaHoGaR","So Small (writing session worktape 1/24/07)",0.53,0.445,0.0275,0.112,0.217
+"513","6gTRjSKPok0vqeP7yEqmYU","It Won't Be Long Now",0.588,0.389,0.118,0.149,0.46
+"514","6HJizCbaqaEQG1eLjn341Z","Hurtless",0.37,0.559,0.0526,0.121,0.316
+"515","6hv7BNBgKYdBslWup3n13x","Studio 6",0.498,0.208,0.0343,0.0977,0.125
+"516","6j0wBBAP3hMe4t1Ymj7GIe","Audition (The Fools Who Dream)",0.344,0.157,0.0457,0.351,0.313
+"517","6ja6rwUZNNfk07xqaiKyTS","Honeymoon Avenue",0.573,0.701,0.0385,0.0866,0.427
+"518","6kcjWJyJP8kuboC4VHadE3","Keep Me Coming",0.798,0.666,0.117,0.108,0.832
+"519","6klpXs2uAjagnZMFkt4qkl","I See the Light - From ""Tangled"" / Soundtrack Version",0.281,0.139,0.0305,0.0725,0.169
+"520","6KRHMYPIWRgFWlXPgqO2Fp","Cabinet Battle #2",0.753,0.539,0.537,0.353,0.519
+"521","6KUJzN97ZFi3kcjlJFL9Ee","Your Ghost",0.781,0.568,0.0596,0.0992,0.569
+"522","6lsFGDo1IEEPFKh94c9kFe","Blow Us All Away",0.82,0.451,0.461,0.563,0.665
+"523","6LtHYDgYHRCHoKK3snfr2w","I’m Tired (with Zendaya) - Bonus Track",0.375,0.133,0.0352,0.0695,0.192
+"524","6mDoM5FGbr1Or5nY9pTnLy","Question",0.635,0.496,0.0936,0.121,0.373
+"525","6nkcPGa0sr24NFCc5l5UjE","If I Could Tell Her",0.584,0.312,0.0405,0.152,0.455
+"526","6nMDb1V8J9mKt8pMgOpWe2","96,000 - Radio Edit",0.724,0.53,0.213,0.141,0.679
+"527","6nUhDYgFdSWWIWnN0Mwq9G","Everything Changes",0.338,0.388,0.0328,0.0976,0.184
+"528","6ocbgoVGwYJhOv1GgI9NsF","7 rings",0.778,0.317,0.334,0.0881,0.327
+"529","6OcCk1dbAb7XNHsC098oEM","I Quit Drinking",0.607,0.418,0.0363,0.182,0.386
+"530","6oF8ueLn5hIl4PRp17sxW6","That Would Be Enough",0.499,0.2,0.0355,0.115,0.185
+"531","6OG1S805gIrH5nAQbEOPY3","You'll Be Back",0.607,0.466,0.0578,0.135,0.434
+"532","6OSTrvIX8JXxRxFT4C9y0J","Breathe",0.397,0.242,0.0663,0.106,0.144
+"533","6OY8871DO2UG40auifzybc","Medley: Stay / Let's Hang On / Opus 17 (Don't You Worry 'Bout Me / Bye, Bye, Baby)",0.566,0.801,0.0786,0.189,0.556
+"534","6p7jXaTJdpzGWnOJoK2jYr","Meet Me Inside",0.732,0.643,0.474,0.363,0.644
+"535","6PCUP3dWmTjcTtXY02oFdT","Castle on the Hill",0.461,0.834,0.0989,0.14,0.471
+"536","6PFoEnjp0PAe5siGswjH9i","Dancing's Not a Crime",0.526,0.891,0.0482,0.375,0.804
+"537","6pOp76OC9X0HNwqs4hMb8G","Water Guns",0.627,0.533,0.0766,0.135,0.279
+"538","6qEpugUrdNrhhPKedT6Kqz","Big Girls Don't Cry",0.9,0.87,0.0956,0.0816,0.901
+"539","6qhdbqcMQ5l2OgX64Keggv","Let's Roll",0.451,0.705,0.129,0.318,0.37
+"540","6Qzocyx8YIExWGSpoggwQ7","Better People to Leave on Read",0.605,0.435,0.145,0.355,0.761
+"541","6r3JPmyGO3Gbpyx1FD5txL","Say Love",0.752,0.454,0.0632,0.355,0.533
+"542","6rlgy1boD69A3mcV7VzPRL","You're Nobody 'Til Somebody Loves You",0.418,0.925,0.0926,0.0773,0.596
+"543","6rZOWfHtSXR3Mas9Mv8tBN","Wonder",0.722,0.497,0.107,0.105,0.561
+"544","6SHI6STEW51cQkAXBRpLNj","Your Obedient Servant",0.736,0.37,0.502,0.042,0.619
+"545","6sHxpnCerm9M6A5zaFFNfs","Gone",0.317,0.545,0.0469,0.116,0.14
+"546","6Tspdrx4jMi0tkUaPliTru","Working My Way Back to You",0.753,0.942,0.0536,0.102,0.556
+"547","6UiQFxMYJgILcLTjLrO0OQ","Seventeen",0.612,0.743,0.0442,0.319,0.347
+"548","6UlVoivrSMVoyhdc5S2tVk","Midnight Moon",0.681,0.484,0.0563,0.115,0.646
+"549","6uUE5S0ZYveiVxl05XIH7G","Revenge Party",0.525,0.702,0.365,0.217,0.653
+"550","6VChVf3NAbBtJzvSVEwqJ3","How Far I'll Go - From ""Moana""",0.179,0.274,0.0336,0.318,0.0987
+"551","6vCN2bUeTaBVPi3Q0P9uaB","My Eyes Adored You",0.545,0.423,0.0433,0.093,0.175
+"552","6Vigp41BietH0WoFZ52JI5","All We Do",0.59,0.242,0.0516,0.0906,0.366
+"553","6voBTDZSeVXnqtRt5JviYE","One Boy",0.174,0.215,0.031,0.142,0.229
+"554","6WBTeFDEfAJbaSUUc1V1xQ","Lost In Japan",0.736,0.738,0.358,0.107,0.404
+"555","6wpUNL6pvnzjehb8Az0jmt","Thinking About",0.433,0.332,0.0362,0.0987,0.277
+"556","6Wxx1jXr6EyGdt8RuYFzvj","Letting Someone Go",0.543,0.117,0.0389,0.147,0.395
+"557","6WYHJTCeO3kyRfRmQW9enw","Requiem",0.409,0.404,0.0285,0.132,0.288
+"558","6Wz9rIfo9tOBcVCd1Mo7F7","Twenty Something",0.641,0.589,0.0275,0.208,0.11
+"559","6XQHlsNu6so4PdglFkJQRJ","City Of Stars - From ""La La Land"" Soundtrack",0.492,0.116,0.0379,0.0889,0.434
+"560","6XxqRhAaruObqx8ComY0H0","Carnaval Del Barrio",0.583,0.575,0.353,0.314,0.615
+"561","6Yjn95BWaCS4U2s6zKSrOS","Inútil",0.475,0.292,0.128,0.121,0.0917
+"562","6YoYLN155MLavQcl3bHmvY","The Boys Are Back",0.706,0.915,0.0535,0.0343,0.872
+"563","6YXG34IWbilypPwjBTOrUC","Can I Have This Dance",0.555,0.619,0.0296,0.265,0.426
+"564","6zJznQATy5aYSduaMgHIxA","Heartthrob",0.728,0.687,0.05,0.0911,0.936
+"565","6zO4pij8tx6UbLVVXWNKa4","Wagon Wheel",0.661,0.7,0.0554,0.187,0.597
+"566","70khXICDeTTxgYtw3EysKH","sweetener",0.721,0.459,0.032,0.212,0.46
+"567","70RecAVg5QudOXfJs64sM5","Planetarium",0.248,0.142,0.0379,0.548,0.0439
+"568","70yB5LLhhedUJfoat3cOYo","Backup Sessions",0.485,0.522,0.0893,0.209,0.588
+"569","71OvX5NNLrmz7rpq1ANTQn","Daddy Lessons",0.643,0.503,0.216,0.349,0.598
+"570","71SidvkT6LCBHRZI858TsQ","Absolutely Smitten",0.667,0.663,0.0346,0.703,0.507
+"571","72I5gb06T9KIESon4AWY8S","Lock Me Up",0.687,0.857,0.034,0.467,0.68
+"572","72jGj8k9C7DIQesDYenUT3","Burnin' Up",0.667,0.954,0.0817,0.331,0.807
+"573","72w8ICCC2kY8imA2Z6RusB","The Way You Make Me Feel",0.714,0.393,0.054,0.0841,0.607
+"574","732Sqj2piYPhdMPENP4axz","Easy Love",0.745,0.481,0.054,0.0808,0.229
+"575","733tju3KUeatsbjcTRQ04i","Yorktown (The World Turned Upside Down)",0.76,0.883,0.25,0.727,0.51
+"576","73B6PiZ2UDUss37GmbI5cQ","Suddenly Strangers",0.548,0.592,0.0352,0.16,0.327
+"577","74HDdbE5v7eMS1f6ogMjhu","I Hear The Day Has Come",0.41,0.146,0.0319,0.0864,0.174
+"578","74lmz9vAlaT7VyVrM5QLLD","Move On",0.578,0.589,0.0408,0.15,0.274
+"579","762K1h8yVV5IgAVuEMpqfZ","Epilogue",0.408,0.27,0.0438,0.516,0.14
+"580","76vMKwFtdDDCLcM6zXybjB","Say Amen (Saturday Night)",0.491,0.867,0.103,0.458,0.602
+"581","779UN3kabApm2zfqX549vf","when was it over? (feat. Sam Hunt)",0.626,0.453,0.0306,0.0904,0.494
+"582","77EipMYqP1rGvotKd6i5E3","The Rain",0.538,0.282,0.0633,0.374,0.201
+"583","77IRyrOkpKBIlNQu59zdvX","Can't Take My Eyes off of You - From ""Jersey Boys""",0.692,0.794,0.11,0.138,0.464
+"584","78eouBKVRyhbSzJwChr6QM","Don't Hurt Yourself (feat. Jack White)",0.614,0.686,0.21,0.184,0.645
+"585","78vw2AVSMEtqDTuFoySuv8","Peculiar and Beautiful",0.41,0.34,0.104,0.0738,0.518
+"586","79ZC7mOJCR4YjJ24wuaunx","dear parents",0.385,0.274,0.0442,0.127,0.24
+"587","7a9udNo0GU97xnMAkjLdmE","Sick of Losing Soulmates",0.519,0.275,0.0383,0.356,0.113
+"588","7aBxcRw77817BrkdPChAGY","Freedom (feat. Kendrick Lamar)",0.437,0.803,0.305,0.683,0.406
+"589","7aftSOGSOpSoIlVAQVBb71","Break Up In A Small Town",0.579,0.776,0.173,0.239,0.434
+"590","7ahhev2IIbivmkRqLjm7g3","Blackout",0.587,0.667,0.0497,0.0778,0.453
+"591","7Ak3h69T8UqQLFjo0qBKYK","Fantasy (feat. Amber Liu)",0.812,0.86,0.197,0.0325,0.646
+"592","7b2boextDf0DimJSN0TcLp","Get Down - Acoustic",0.406,0.485,0.036,0.102,0.558
+"593","7b87wnvA8DAdHae3UK38Az","6/10",0.471,0.152,0.0335,0.0981,0.0561
+"594","7BbtvJqWnQRt8gSrWbUVym","Only Us",0.467,0.346,0.0271,0.102,0.243
+"595","7BKLCZ1jbUBVqRi2FVlTVw","Closer",0.748,0.524,0.0338,0.111,0.661
+"596","7BlRb7kBQxl2qxQBq6JBSB","Supposed",0.374,0.81,0.0807,0.131,0.108
+"597","7CBrUf50mf2IqcRZla38by","She Used to Be Mine",0.606,0.223,0.0356,0.115,0.132
+"598","7COXchtUOMd6uIT6HvmRaI","i'm so tired...",0.599,0.733,0.203,0.242,0.534
+"599","7cyKrN1y4q59bc1gJX3QEG","Start A Fire",0.532,0.832,0.0535,0.766,0.314
+"600","7D1Lf7N7AtCuEq5PGJtIPz","The Reynolds Pamphlet",0.751,0.573,0.226,0.129,0.538
+"601","7EqpEBPOohgk7NnKvBGFWo","Wait for It",0.543,0.473,0.157,0.0922,0.519
+"602","7Er5mOX9HNLnRvnCdZ0IGp","Crash",0.567,0.722,0.225,0.239,0.718
+"603","7EsSVPxaYoAZjQwhspJBs2","Who Lives, Who Dies, Who Tells Your Story",0.353,0.326,0.0901,0.0904,0.156
+"604","7ETCUCheWrp9y0k3zaoCNq","Sunrise",0.389,0.143,0.0411,0.136,0.13
+"605","7F1CiKqrY44kh5cDqwHOnx","Love Is Gone - Acoustic",0.541,0.153,0.0303,0.16,0.359
+"606","7FIrk5lA1IalpZ3OtieeC8","Good For You",0.627,0.709,0.0726,0.242,0.791
+"607","7FLpaXPZHwXkhgH2gK1VWb","The Way I Feel Inside - From ""Sing"" Original Motion Picture Soundtrack",0.537,0.0999,0.0476,0.123,0.395
+"608","7FLQuyyCaIrBRqNt5l83U4","Reforget",0.44,0.469,0.112,0.169,0.225
+"609","7g58rb2dFDCvcmLBwpHR9F","(Fuck A) Silver Lining",0.577,0.939,0.108,0.24,0.714
+"610","7gHs73wELdeycvS48JfIos","Faded",0.589,0.651,0.0306,0.111,0.166
+"611","7GLvGlqdg2ocugG4G5ih4I","Bigger Than Love",0.572,0.64,0.029,0.21,0.376
+"612","7gXjNlZlfP1GXRH1WvyuE2","The End",0.176,0.0465,0.0401,0.0493,0.216
+"613","7HJYV8R7fBaXGCuTlhEhE8","Beggin'",0.742,0.825,0.0561,0.113,0.393
+"614","7hlhojpax9zg2FNdBLY5ox","Because I Had You",0.879,0.338,0.106,0.312,0.69
+"615","7HUCGA1RG6zO68rpcn2s3J","Why Don't We Just",0.713,0.662,0.14,0.0977,0.794
+"616","7iUkK8yFqMoqIp4Q2hBPKZ","The Edge Of Glory",0.588,0.901,0.0809,0.0923,0.502
+"617","7j6WffpdiUX1S9WUu7tXyo","Pomegranate Seeds",0.718,0.868,0.0995,0.141,0.557
+"618","7KHT9zexpmqYyxQVLJ5uts","Instrumental",0.211,0.11,0.0374,0.156,0.0981
+"619","7kyTShMdMLi45EGFaDBp5E","Good Girl",0.628,0.845,0.0684,0.19,0.717
+"620","7lj2qQiCXTbapfGJ9rJtA3","Come Together",0.539,0.578,0.0426,0.111,0.431
+"621","7LJOfS8evyKfP8Fl5rdZXw","Cop Car",0.606,0.599,0.034,0.0664,0.178
+"622","7M2UiRCmybJ5fuT7Wc2iDR","Damage",0.483,0.424,0.0671,0.311,0.189
+"623","7m9XR7FquXLP1FewdAcNS9","Guns and Ships",0.72,0.666,0.328,0.0844,0.383
+"624","7MtFSqydPEcQwM8DUrRzYd","Deny U",0.508,0.611,0.22,0.118,0.492
+"625","7oAraczbemGSNWqnbkU87R","Too Good At Goodbyes",0.515,0.378,0.065,0.172,0.536
+"626","7oAuqs6akGnPU3Tb00ZmyM","All Night",0.574,0.573,0.085,0.0933,0.626
+"627","7oIulbJzf0hyytjsf5aUH0","Wish You Were Here",0.518,0.703,0.119,0.25,0.687
+"628","7oowrTZAVVCIlGJd42w0hk","Enough",0.839,0.464,0.0979,0.151,0.733
+"629","7oUjf3UvLJbRelKiDip47v","These Are The Lies",0.462,0.704,0.0318,0.108,0.503
+"630","7p7ogqHrCofMhzLQUJulvn","Wasted",0.535,0.788,0.0351,0.0755,0.285
+"631","7qfoq1JFKBUEIvhqOHzuqX","Non-Stop",0.77,0.482,0.351,0.223,0.441
+"632","7rLDARtJALM7QdiJDMXW7m","Pray You Catch Me",0.25,0.215,0.037,0.401,0.0746
+"633","7sBzLIvCknMuaSssdRqihX","Alive",0.258,0.62,0.0501,0.339,0.199
+"634","7sPcz0XlmcxQnd3rK45fOx","Sleep Deprivation",0.588,0.412,0.0613,0.134,0.302
+"635","7u6DMPznGbpziuEgCE0JGQ","get well soon",0.604,0.449,0.0353,0.0932,0.528
+"636","7vU9VpbmB4ZoztAigpXLlJ","Finale",0.423,0.0919,0.0353,0.0931,0.414
+"637","7w45f9uLSXE56Bezwjdl8B","Slip Away",0.553,0.556,0.0296,0.112,0.0585
+"638","7xnaADt0U0YhVbpW4ukxto","How You Feeling?",0.795,0.814,0.0331,0.0569,0.62
+"639","7xVSDVhCMiKxviWlNOKG61","Perfect",0.43,0.303,0.0289,0.158,0.419
+"640","7z4mcKCYFPgqFeYS5mNyTB","No Me Diga",0.601,0.449,0.358,0.13,0.78

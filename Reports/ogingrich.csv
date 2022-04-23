@@ -1,0 +1,495 @@
+"","track.id","track.name","danceability","energy","speechiness","liveness","valence"
+"1","00knyQIL2CzDzX05nJni8u","Reborn",0.642,0.697,0.17,0.11,0.0542
+"2","01YROQCnF1AQm7SCWJmD2o","This Is Halloween",0.569,0.508,0.0502,0.145,0.647
+"3","02dHaKH11F7VrEp3aCgOnw","Spice Drops",0.299,0.969,0.111,0.0734,0.653
+"4","02hAUjeZHXJSIIJdX4Esmb","Slumber Party",0.533,0.936,0.0447,0.0622,0.421
+"5","03uOJUuuTgaFFI1Efal1no","The Son of Flynn - Remixed by Moby",0.621,0.853,0.0311,0.423,0.2
+"6","06iUp1XbbaOvAmzrrZeT32","Kidnap The Sandy Claws",0.744,0.524,0.103,0.521,0.771
+"7","07Wqp9LcTwzdIyuI0twXjx","Touch Me",0.705,0.539,0.055,0.0575,0.848
+"8","08DBDmvEgY2ZTVMVH2A8lt","The Game Has Changed - From ""TRON: Legacy""/Score",0.543,0.509,0.0418,0.112,0.0694
+"9","08lh1ifSaWFpXmtg9pYybz","Lay-Z-Boy",0.637,0.0228,0.0516,0.116,0.29
+"10","08ZuYMwYKdxLrGufv125m0","March To The Sea",0.693,0.496,0.0444,0.0738,0.149
+"11","0aaOrTcwzvbTni3zUarEaT","Serotonia",0.297,0.506,0.033,0.104,0.11
+"12","0bBi4uqjdfhAU6AFyKqnGg","Suffer - Remastered 2011",0.342,0.286,0.0399,0.0754,0.244
+"13","0cfiDwDthcy5DoR2xIZnkr","Flying Above The Clouds - Original Mix",0.6,0.826,0.0599,0.0525,0.667
+"14","0Fe4PvGPm4t6cpNGHrssuH","Lamps",0.235,0.0617,0.0382,0.144,0.033
+"15","0ghtKRiQjRVAwK0syn43HA","Adagio For TRON - From ""TRON: Legacy""/Score",0.0963,0.12,0.05,0.129,0.0366
+"16","0GmOKTeqDD8OJdl15LBpyD","C.L.U. - From ""TRON: Legacy""/Score",0.353,0.511,0.0341,0.228,0.0499
+"17","0IydLdsuAD9AA0RMXP3OFT","Telescope",0.616,0.573,0.0342,0.29,0.459
+"18","0Jc2SfIHv63JNsUZpunh54","Solar Sailer - From ""TRON: Legacy""/Score",0.179,0.167,0.0394,0.106,0.0399
+"19","0je6JQMhrkDF8aPSHcQ1r2","All The Things She Said",0.556,0.834,0.055,0.111,0.509
+"20","0JNv9mydxCag3TEse7MHH5","Omniverse",0.449,0.665,0.0331,0.103,0.415
+"21","0JRf1GHWEoeWbkx2kcU6NB","Walking Through the Upside Down",0.389,0.399,0.066,0.117,0.112
+"22","0Jv9rxJskFo4jEpRF3BMQL","Essence (VIP)",0.595,0.558,0.0445,0.0917,0.0394
+"23","0JZ9TvOLtZJaGqIyC4hYZX","Trouble",0.689,0.799,0.0392,0.297,0.823
+"24","0kwuKfWntoGh0EWyYb7Mpf","Stranger Things",0.352,0.551,0.0362,0.167,0.103
+"25","0kZEfdlIq3sfQklsGcUZDm","Droopy Likes Your Face",0.59,0.325,0.0348,0.2,0.404
+"26","0lTzpW1rYGWDAVzGa8lHGN","Prime Audio Soup",0.585,0.914,0.044,0.324,0.485
+"27","0M5HkgtKTIHNPMfh0N5KYP","The Beginning - Original Mix",0.433,0.689,0.0553,0.0917,0.0767
+"28","0mHayzmzEB485RkUCETcCL","TRON Legacy (End Titles) - From ""TRON: Legacy""/Score",0.43,0.829,0.043,0.358,0.0406
+"29","0MlFZLrCgd14Q0VNKRO8vo","Joke's On You!",0.567,0.8,0.113,0.301,0.376
+"30","0nxG0qobx9X7xsMOcEj2PE","Say",0.645,0.756,0.0368,0.14,0.438
+"31","0oiGUMBeL8Bn0csxAl4a1W","I Only Said",0.29,0.84,0.0457,0.475,0.229
+"32","0ooZRLtbwYjdRy8BM8hQsh","Play (feat. UK:ID)",0.409,0.995,0.237,0.0871,0.15
+"33","0OSQSbZXZm1WfTyKdqJuWp","My Brother Taught Me How to Swim",0.545,0.786,0.034,0.0877,0.68
+"34","0OXmUaY4ajGoQ7JOAzotQJ","Helplessly Hoping - 2005 Remaster",0.567,0.159,0.0331,0.111,0.436
+"35","0POQR8XYRwio5UcF2PJa7j","Super Sumo",0.495,0.964,0.0421,0.0705,0.838
+"36","0q4VbtFGvlv8xK0xtXKbIi","Hit Me",0.507,0.909,0.0549,0.406,0.308
+"37","0rKlNsNmGGKGXo6tDgkHEn","It Comes Back To You",0.634,0.749,0.029,0.0698,0.49
+"38","0RnWcmby0uEKmTsfw4R0ZZ","Until We Can't (Let's Go)",0.572,0.906,0.0502,0.0492,0.371
+"39","0SdhdMKUOpq8xuBhPidE35","Ordinary Day - Them Album Version",0.526,0.767,0.0332,0.145,0.442
+"40","0sl4vCvb4kyAnTDGqN94pb","Recognizer - From ""TRON: Legacy""/Score",0.577,0.539,0.0404,0.108,0.0578
+"41","0tK2WOHDVX2I0KRF9D0K4I","Wake Up",0.42,0.832,0.117,0.175,0.561
+"42","0U6QHjAcifZLGrVsFObjEK","L.A. Girlz",0.417,0.799,0.0386,0.0674,0.416
+"43","0UbS4oWIo2nUXeTxsvFaN1","California Kids",0.422,0.953,0.123,0.575,0.2
+"44","0uG7N4hCYktGJrWIp9cfYz","Merry Christmas, Happy Holidays",0.511,0.746,0.106,0.149,0.588
+"45","0vQuIt1pIdUKkQRdHnIOhf","Never",0.293,0.984,0.0939,0.277,0.6
+"46","0wEqSX1vrkkKTaBCO4jYAy","I Can Learn",0.275,0.52,0.0308,0.0941,0.0761
+"47","0WjvB0SzNvgmuM46UjcMr8","Lifted Up (1985)",0.568,0.816,0.0281,0.155,0.31
+"48","0WzpqM6GqbVm6zQ2qeqDEW","Imaginary Friends",0.643,0.419,0.116,0.0496,0.0339
+"49","0XkAN5zxmxOZFgbaNZPwF2","Spectral",0.808,0.712,0.106,0.115,0.0999
+"50","0xkgouYBp937ukn6vzkjBI","Kidnap the Sandy Claws",0.625,0.879,0.171,0.187,0.636
+"51","0yMaGil4yVbV6YhXXAXw83","Eleven",0.185,0.0534,0.0408,0.0969,0.0357
+"52","0yOQcX4XnubfmeI7cL8LK0","Spybreak - Short One",0.559,0.925,0.0461,0.257,0.47
+"53","0ZDM0BNfjrBZipjAgFDBze","Insequi",0.459,0.926,0.0524,0.275,0.0837
+"54","0Zj3Ihs4nn3G3xZ2LKLEbP","Sally's Song",0.268,0.113,0.0383,0.191,0.113
+"55","0zOn9umVAP1HwtWAbApuFB","Looks Like Rain",0.385,0.711,0.0588,0.11,0.331
+"56","10dFTKzqjjuwFXxbG9zps9","Oogie Boogie's Song",0.466,0.556,0.139,0.679,0.548
+"57","119e8pfjClkZgbgRMnHupo","Dragula - Hot Rod Herman Remix",0.536,0.957,0.066,0.638,0.549
+"58","128P4o9nj5P7PMrnKib8QM","Coldest Winter",0.39,0.381,0.0567,0.107,0.266
+"59","1326bnwC9n5ET98O7xwsJH","Infinite Power",0.711,0.828,0.0453,0.34,0.759
+"60","13YYyfoQkvzZB50wHRCwnm","End Title",0.327,0.224,0.0349,0.088,0.151
+"61","151euPGiYbCaSWblCKOkDx","Your Loves Whore",0.582,0.59,0.0488,0.0506,0.319
+"62","174sLt5VKfDgSda436iIPK","Scalar Wave",0.0629,0.189,0.0522,0.344,0.0332
+"63","17KGTOb8fkxlyTnB5eFnsh","Sing To Me",0.55,0.872,0.0588,0.0617,0.618
+"64","19W5OTEcQI3ZoRW1HERMyy","Cancer",0.652,0.295,0.0477,0.0809,0.196
+"65","19WfbfP4sZEk44d4KZtHPx","Freazy",0.659,0.776,0.0331,0.35,0.586
+"66","1a6eBanC06lAP0hbKyZkC2","Raptus",0.286,0.341,0.0517,0.115,0.123
+"67","1CQXNBt6zv15L8zDITcxRB","I Bet My Life",0.545,0.659,0.0394,0.415,0.599
+"68","1CYjYSg9sdtbBoxSf8uhFD","This is Halloween",0.563,0.8,0.059,0.143,0.729
+"69","1DBm36ErFnj5z8QOe03YA3","Looks Like Rain (feat. Chris Hartz & Ray Suen) - Live Multi-Synth Performance",0.518,0.508,0.0325,0.114,0.169
+"70","1dMtQhWUQWCWyYRD3fbWDu","cschz 01",0.333,0.489,0.0363,0.165,0.0687
+"71","1eGh6sHAWBAyuQTUh8wRIv","Photos in the Woods",0.0805,0.061,0.0438,0.112,0.0337
+"72","1EJwlUuDiVlTv4WZfKAABf","Leaving Philadelphia (Arriving in Seattle)",0.564,0.114,0.038,0.108,0.204
+"73","1EtYRZkhbMImxZl8ooqyzf","Nonsense - Original Mix",0.425,0.797,0.193,0.611,0.266
+"74","1euszbbvkUzQzIhZUWFmXG","My Name Is Human",0.515,0.698,0.0279,0.0827,0.194
+"75","1gka4VJFdGMQhesqRxna82","Junction Seven",0.442,0.993,0.157,0.404,0.223
+"76","1gNcPHAiVIQZmqJFJdt3ti","Dry Hands",0.68,0.00713,0.0873,0.104,0.342
+"77","1H36BBwHZuAWszr2EET29m","Rectifier - From ""TRON: Legacy""/Score",0.438,0.191,0.0373,0.121,0.0398
+"78","1I63q5aYjoyai9CI8QXDrn","Touched",0.164,0.21,0.0378,0.332,0.273
+"79","1ibDsc8JOdKlz6CzjxP62y","Knock Knock",0.528,0.929,0.0607,0.821,0.713
+"80","1J0hTPAHYMr8tKHVjvQF5z","Zero Light",0.246,0.908,0.172,0.358,0.624
+"81","1jKnft1iO8A9bcsAqpLD06","We Are - Original Mix",0.793,0.631,0.331,0.154,0.663
+"82","1K4sIbWEPSaGrE894HkMnA","Them - Them Album Version",0.607,0.453,0.0451,0.0851,0.412
+"83","1kAQmY7yNW6LFdDftDbe1X","Loomer",0.0931,0.433,0.039,0.148,0.453
+"84","1KidRHMFKMKJ7ZkRsgePG2","Anything - Them Album Version",0.583,0.653,0.0235,0.0526,0.792
+"85","1lgN0A2Vki2FTON5PYq42m","Warriors",0.365,0.851,0.065,0.238,0.309
+"86","1lklm7l2pWgjHqNtlvTtgR","Incandescent",0.246,0.723,0.0521,0.572,0.132
+"87","1Lmbbj55o2y0ElB3Abu3c2","Kidnap the Sandy Claws",0.685,0.9,0.0442,0.159,0.434
+"88","1m9AgEvBZcqodTqxWeMHiK","Daydream - Remastered 2011",0.473,0.376,0.0322,0.108,0.0775
+"89","1MgV7FIyNxIG7WzMRJV5HC","my tears ricochet",0.456,0.263,0.0332,0.0749,0.111
+"90","1mJUgvCt49AbjS5bJu0kFc","Iter",0.485,0.366,0.0303,0.115,0.231
+"91","1MnXNW03vkijBz0GHAsHgW","Falling For You",0.406,0.925,0.0486,0.14,0.407
+"92","1my7ToiHOCDaQyXxkKJS1A","Hallucinations",0.19,0.102,0.0391,0.103,0.0354
+"93","1N31Wy2PWz5HvCzMbff3mO","Snowcone",0.726,0.563,0.238,0.263,0.134
+"94","1NFxiKX9bfDDsEXy8qpT45","Kyrie",0.238,0.135,0.0379,0.11,0.0479
+"95","1Nv1h7ANN9E4rAjLP4OfgA","TRON Legacy (End Titles) - Remixed by Sander Kleinenberg",0.69,0.912,0.0485,0.338,0.601
+"96","1oHNgH9bnGptSbYHyz3KBK","Making Christmas",0.594,0.63,0.114,0.0814,0.383
+"97","1OJxI8lIWRqBvouJxW1nzN","Subwoofer Lullaby",0.329,0.0141,0.0398,0.104,0.0387
+"98","1P2mHUjFClmnshI57cqbLn","Progigno De Axis",0.543,0.196,0.0492,0.34,0.153
+"99","1pKmfhwbZvsyYUP2eOGdw5","Screen",0.718,0.714,0.0622,0.141,0.84
+"100","1rDETmcizen79JghAEm1Se","Gonna Love Ya",0.718,0.666,0.0489,0.129,0.699
+"101","1rn6JIHBuBZiwvA57jeoOB","Derezzed - Remixed by Avicii",0.712,0.725,0.104,0.283,0.156
+"102","1ROBixGgXrYlcCcrBfxAoy","4ware",0.738,0.711,0.0442,0.11,0.64
+"103","1rvbY7HXYsFXSlLqxphocK","Getchoo",0.338,0.895,0.0466,0.304,0.625
+"104","1TctVlWvNpmKGHMuPqJ5G2","Oogie Boogie's Song",0.5,0.435,0.288,0.136,0.573
+"105","1tinoQpYXzpZDrb0BjK1e7","Wet Hands",0.616,0.035,0.0432,0.0835,0.643
+"106","1TT6gRprLQ5vSWgoWpyKfR","The Son of Flynn - Remixed by Ki:Theory",0.431,0.955,0.0361,0.164,0.282
+"107","1U4qdg1F2WcpXh0a5mpYpn","What Else Is There to Do?",0.263,0.364,0.0481,0.143,0.0375
+"108","1UJNbgfTzG1gZZTWFJdMf1","Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",0.705,0.751,0.287,0.907,0.819
+"109","1uzjBxuCIkIr1sMeznivWx","You Can Talk to Me",0.0759,0.000457,0.0566,0.104,0.29
+"110","1vbQfjuzShxD4Occn6eR5m","I'm Finding It Harder To Be A Gentleman",0.573,0.53,0.0396,0.19,0.371
+"111","1WCZofKjaaRStnNuF9mnW7","Fides Fragilis",0.164,0.241,0.0391,0.11,0.0657
+"112","1xLb2qFkgVVJtAnEkjSJ6Y","South Capital Street",0.192,0.983,0.0781,0.189,0.62
+"113","1xPec5BN0Zxv77zrWKq43S","The Son of Flynn - From ""TRON: Legacy""/Score",0.543,0.775,0.052,0.258,0.0222
+"114","1YCO0AUl7FJyY0UsDIWUVo","Outlands - From ""TRON: Legacy""/Score",0.571,0.449,0.0382,0.281,0.172
+"115","1yf97yL1ll8FYXC27c9VTw","Trees",0.584,0.833,0.041,0.169,0.324
+"116","1YmKdg7Lnuox0gCd93aq0I","Lifted Up (1985) - Glitter and Strobe Lights in Slo-Mo Version [w/ post edits]",0.291,0.474,0.0289,0.0976,0.186
+"117","1yRvOL3HruyNKODMBHt1Qh","Thirteen",0.26,0.0671,0.0446,0.116,0.0286
+"118","1Z4dI3O9yMNd4jekw0owPz","FL Studio Haters - Original Mix",0.598,0.769,0.0396,0.587,0.502
+"119","1zeDOV4IIuPcibgnsZR5a1","Cops Are Good at Finding",0.198,0.335,0.0412,0.116,0.0358
+"120","20qYroyxwJrTieybh00uKP","Seasons",0.39,0.987,0.0544,0.0826,0.654
+"121","20zCnBjK6aIgvvy66qZ7RV","Friendship",0.0909,0.0192,0.0418,0.109,0.163
+"122","225uLPVGpYMJV5rWE4jcSE","Deserted Skies",0.222,0.246,0.0398,0.079,0.185
+"123","22EwY5MeOF8i0H2KbXFiOy","Let It Go (feat. KATFYR)",0.559,0.756,0.052,0.065,0.0945
+"124","23uNiVgsIgoHC7eLet3kCI","Cat",0.485,0.472,0.0434,0.0995,0.0384
+"125","260jSxvzkFt71ksvkcy2ke","Broken Arrows",0.63,0.666,0.045,0.104,0.288
+"126","28GSW3SAZXV9rVdsu7GJHI","Fresh Blood",0.647,0.537,0.129,0.0823,0.143
+"127","2a0u9xfapgvsU4qGwHOTxL","Toothless Hawkins (And His Robot Jazz Band)",0.751,0.823,0.143,0.236,0.408
+"128","2ApgsxLJ6JcT165bSLLrcZ","Swallowtail",0.381,0.393,0.0296,0.111,0.154
+"129","2Au50d6aZrsYrbxQzDjjYW","Danny",0.211,0.0262,0.0377,0.0757,0.098
+"130","2aUDpZRSit5Zg2R6L5r6dW","Arena - From ""TRON: Legacy""/Score",0.334,0.423,0.0348,0.0732,0.0859
+"131","2cKkV4tR8Upz8ONRGAYJZ0","Memoria",0.238,0.11,0.0411,0.622,0.0964
+"132","2D22551hzLCDfsK40Lldml","My Own Summer (Shove It)",0.443,0.781,0.0377,0.166,0.372
+"133","2dLrkKiddmHEYAQ7fUwfxw","Summer Elaine and Drunk Dori",0.558,0.838,0.0464,0.102,0.716
+"134","2EyK6JBWqftJlxAuqd0Dsq","Adagio for TRON - Remixed by Teddybears",0.741,0.806,0.0371,0.133,0.248
+"135","2FD2StPTst6uMJF7cHBbP0","Excuse",0.487,0.00692,0.0338,0.141,0.0352
+"136","2gfZCMsk9arAdwJvXRURvK","No Weapons",0.173,0.0281,0.0483,0.197,0.0283
+"137","2hUFjIbpKaRqs97OjUAmXb","Johnny Boy",0.561,0.841,0.0515,0.24,0.356
+"138","2IDsSsQmt35ptVP8MP1QwV","Death By Diamonds And Pearls",0.47,0.676,0.0867,0.115,0.487
+"139","2ISXXTx96Zgk7qYzsY9XuG","Deverbero",0.477,0.287,0.0413,0.115,0.353
+"140","2jFLd9OdNcLsblpv4fDTRn","Rinzler - Remixed by Kaskade",0.597,0.814,0.0528,0.124,0.396
+"141","2jH0mIa0Xnzog3PurjyUhg","Pirates - Original Mix",0.325,0.984,0.0563,0.316,0.116
+"142","2K1zp0p7PVmrBUQu6evtfe","Somewhere In Stockholm",0.237,0.766,0.24,0.112,0.535
+"143","2K9if74JZbbDAOi9VJ8Hon","Chinter's Will (feat. Sara Kay)",0.597,0.787,0.0463,0.114,0.157
+"144","2LWg0SzLGk2e1mCZ8eMjRj","Exoptare Ex Veritas",0.279,0.0108,0.0405,0.0991,0.0693
+"145","2MLsdtPIn0Jg1nILQFa65r","H.E.V Kevlar",0.52,0.775,0.266,0.099,0.663
+"146","2mY4AbpVmdFOOp1SdFtdWj","Showdown",0.656,0.84,0.0407,0.369,0.187
+"147","2MzDymXxm8jShcRkl1mf5Y","Mitus Lumen",0.232,0.352,0.0396,0.118,0.294
+"148","2MZSXhq4XDJWu6coGoXX1V","Avril 14th",0.558,0.0259,0.0458,0.0969,0.37
+"149","2nXuEJtzcI9BoErv6XPL9n","Dancing on the Grave",0.27,0.475,0.0296,0.0525,0.175
+"150","2o2g92HpEXRUax53dy1Grs","Samson",0.484,0.807,0.0734,0.0993,0.79
+"151","2oqloXqXERiZf5EF0GlrOh","To The Rescue",0.337,0.224,0.0435,0.164,0.126
+"152","2OQS6fFDpJzpDVC6gNzoj5","Flynn Lives - From ""TRON: Legacy""/Score",0.45,0.278,0.034,0.185,0.0421
+"153","2P4OICZRVAQcYAV2JReRfj","Waiting For Love",0.579,0.736,0.0527,0.198,0.613
+"154","2PmuAeh5yPInDg9wqRFs8V","Offend In Every Way",0.403,0.651,0.0281,0.229,0.241
+"155","2Q4OrJV7rGtUpPsLGbchgr","Thief",0.416,0.715,0.0435,0.106,0.126
+"156","2RezMgJegcVIlHwKju3Ra6","Rom Og Omega-3 - Original Mix",0.544,0.801,0.0335,0.0764,0.127
+"157","2RgeSLk8CBdBSEvdC5kwiR","The Thief",0.573,0.716,0.031,0.313,0.163
+"158","2S7R4trL4HITPIfvKUxcA4","Wolf",0.405,0.539,0.0363,0.279,0.0384
+"159","2Sg9Iq2Q29hMNXa7ZpKxaG","(Girl We Got A) Good Thing",0.554,0.707,0.0368,0.0822,0.38
+"160","2T5iG14DPRlkhsB0sTDXjv","Highscore",0.603,0.854,0.0422,0.0623,0.279
+"161","2TotbfEDZL02XSBRCoZPPr","Lamenta",0.453,0.0717,0.0421,0.477,0.0948
+"162","2U8VIfiupRGb10uAI3tOKc","Tristessa - Remastered 2011",0.478,0.831,0.0357,0.194,0.576
+"163","2UBYw2qf9PkvoKQ610ocft","End of Line - Remixed by Photek",0.581,0.806,0.0417,0.216,0.528
+"164","2uloKR8LNxKId2HGDvsDUF","Invaders",0.707,0.671,0.183,0.0899,0.389
+"165","2Uq1FdVqGD5wJJtHnNPal8","Papa",0.135,0.00671,0.0489,0.0879,0.0359
+"166","2uq3GxZVE82M7eR9aMHHsG","Look To Your Orb For The Warning",0.444,0.53,0.0285,0.105,0.251
+"167","2vH0UXJOrKA3VxqaeVHOwt","Bad Blood - Alternate Mix",0.348,0.82,0.0435,0.129,0.235
+"168","2VTzQP6clPyCfbJKYEzUFd","Lirim's Beat - Original Mix",0.829,0.72,0.0974,0.611,0.73
+"169","2wl9I2ajE7SbL7ttFU3L47","Lights",0.657,0.847,0.0417,0.105,0.29
+"170","2x2SotEkKozaFh6H1aVnOZ","Who We Are",0.407,0.656,0.0413,0.343,0.39
+"171","2Xaw1RrXP3mdooKWysuRJ8","Monster",0.472,0.774,0.0824,0.132,0.443
+"172","2XO5y0JRmIO5GdjB3SFYzW","Line Of Love - Them Album Version",0.622,0.613,0.0245,0.178,0.835
+"173","2xP7MLAMo06fuhne2M8pXA","Rinzler - From ""TRON: Legacy""/Score",0.498,0.641,0.0448,0.0999,0.0372
+"174","2Yx4COj98jyZ46IGyqQeCE","Town Meeting Song",0.554,0.401,0.142,0.252,0.649
+"175","2YXptsxOQwUZlYFaHLVvHP","Garden - Them Album Version",0.507,0.477,0.0263,0.305,0.336
+"176","2yYjpUhmKKdDSsRPewhm8H","Adflatus",0.114,0.0819,0.0389,0.0772,0.0641
+"177","2zi8h8tYtUd3RFX6EDlTcY","Sally's Song",0.484,0.348,0.0295,0.0956,0.212
+"178","313RQRrxY5sKBOPd4qBVrC","Infinite Mystery - Original Mix",0.133,0.0564,0.0387,0.116,0.0365
+"179","33ytgjBqchYHhhRfKWMCvH","Fell In Love With A Girl",0.235,0.977,0.141,0.8,0.379
+"180","34QAEq8Wfh8OUvJ7vXg1OW","A Kiss",0.512,0.214,0.0426,0.109,0.36
+"181","34zl72d3SIxkpfMaOFeJtd","Fires",0.581,0.537,0.0376,0.0962,0.288
+"182","35j3CjgBRoqLp8LsAKsQF4","City Lights",0.8,0.821,0.224,0.297,0.417
+"183","36tghkPg1AO4HsAzo6YpPp","House of Gold",0.68,0.693,0.0435,0.208,0.851
+"184","37WtwAa4PzRprHMp7Esdds","Équinoxe",0.436,0.101,0.0342,0.0927,0.252
+"185","38KHZHDfTGX8k2WVWKC14Y","I Think I Smell A Rat",0.516,0.835,0.053,0.331,0.501
+"186","38sRvfuyngSszsT2eVaX7K","Shrinky Dinks",0.313,0.971,0.0655,0.0426,0.893
+"187","394xdC7aFTQJBl43CyQ67Y","Pour Me Out - Them Album Version",0.395,0.894,0.0565,0.206,0.375
+"188","3Ai7wKn9UYkkNuygKgf4b2","Ten More Days",0.593,0.675,0.0306,0.0972,0.267
+"189","3bbPbCnXkLTOOA8hejvwDD","Ooklah The Punk",0.294,0.968,0.103,0.115,0.828
+"190","3bOfawOrDpk59qq9iuvJdw","Lane Boy (feat. MUTEMATH)",0.578,0.834,0.123,0.0883,0.479
+"191","3BXNVi7Hy4j0aVXnMrRngz","One Blink for Yes",0.397,0.0729,0.0445,0.135,0.0891
+"192","3C2EoVLfPVajaocjUBlooV","Whelk Then",0.746,0.211,0.0944,0.111,0.0349
+"193","3C3cr2JQwXIhqAHqOardVO","Holding on to You",0.608,0.776,0.0511,0.0713,0.814
+"194","3cXy6ARE95wbTVF1bO1LFn","For Billy",0.543,0.866,0.0399,0.32,0.321
+"195","3FaZJiiJiJAtf7TtCVuAx6","Dirge",0.21,0.633,0.0522,0.433,0.0353
+"196","3FvV3j98xtcylQF1drDc9j","Oh Ms Believer",0.501,0.328,0.0255,0.15,0.263
+"197","3fytQQcjEOWXlvI9BDXVcK","What's This?",0.518,0.473,0.0753,0.126,0.501
+"198","3g2gQMeeQAEPztiQKMlGSl","El Scorcho",0.479,0.707,0.0659,0.0932,0.661
+"199","3gMiWchHpcuPDDDLjwszFk","Snail - Remastered 2011",0.24,0.589,0.0349,0.0816,0.148
+"200","3HfEgAaf0koxBpBB8NvGda","When You Sleep",0.4,0.82,0.0466,0.236,0.135
+"201","3Hsf6jIQHEUGeEZXiiD7E6","Mindfields",0.663,0.975,0.0465,0.0749,0.416
+"202","3KgIZWuC7JJOgkcGeAWbZg","Battle Cry",0.358,0.909,0.0949,0.138,0.0419
+"203","3Kmee1RKDu0eLM09rcN5oB","Viper Strike",0.613,0.754,0.0354,0.282,0.298
+"204","3ksu00d3upBmtytFqdBpeD","Nabbed",0.409,0.0554,0.0385,0.0755,0.241
+"205","3L9I7FC1xniRArmOYB0ZMu","What's This?",0.513,0.881,0.0484,0.0833,0.385
+"206","3Lj2PcKAkTXYiSVSeT7UA7","Toro",0.43,0.879,0.132,0.102,0.561
+"207","3lzZBqtxk2vRRZQ9ltaXFQ","Face To Face - Them Album Version",0.44,0.471,0.0262,0.108,0.38
+"208","3MazMg7nHPpKwhuByXMeDu","Transmission",0.735,0.631,0.0627,0.115,0.542
+"209","3MLtopC0uho28PxZN7Zecy","Fake You Out",0.84,0.608,0.0458,0.0874,0.727
+"210","3mWJY5PUwz8WTtM5YTeFy4","Cold Fame",0.491,0.404,0.0319,0.114,0.148
+"211","3ngADr8JW3DjeVqFWwWDbs","Siva - Remastered 2011",0.383,0.73,0.0387,0.14,0.271
+"212","3NyovXfcpc8PDWWKH7xEDs","S.O.S. (Sawed Off Shotgun)",0.568,0.961,0.065,0.138,0.924
+"213","3OfiRybgoMcTtEFKuvyx0r","I'll Be Home For Christmas",0.61,0.495,0.0308,0.121,0.484
+"214","3P0WZSaeeHypNv06il2Gwv","Temple in the Forest (A)",0.239,0.102,0.036,0.154,0.0365
+"215","3paRBmesK140jHjrno7jvQ","Leave You Far Behind - Lunatics Roller Coaster Mix",0.542,0.981,0.098,0.445,0.622
+"216","3pdwtknFmM6xocVEpj7yAl","No Other One",0.387,0.851,0.0373,0.378,0.47
+"217","3pgDkYNYH7hMCl5Njib24j","Gold",0.416,0.459,0.0317,0.0551,0.286
+"218","3PYNwzHABIkJxA6hPcf9bT","Butterfly",0.62,0.192,0.0311,0.122,0.465
+"219","3Q95VQL8yWRO8mkF6VoDzi","Sunset Jesus",0.61,0.788,0.0646,0.13,0.687
+"220","3QlTuiZ2g9cclf5mIDj1QU","Agents",0.351,0.386,0.0476,0.139,0.0352
+"221","3rGu7pvMFpHRT2Shdez3bg","Dancing on the Grave - Original Bursting+Blooming Arrangement",0.735,0.586,0.0319,0.0543,0.563
+"222","3RpW0hYoaMNKQyiSLsgwh5","Dubitatio",0.212,0.197,0.0453,0.61,0.0834
+"223","3s5Ysmv9wwyiEjEEGmNvyX","Children of Hell",0.466,0.983,0.0601,0.231,0.0539
+"224","3sbcAG3y97g63yDSVMf38o","Oxygène",0.158,0.00832,0.0417,0.0828,0.0313
+"225","3SL3UavpjRKNMM9UVlE9Bx","Encom Part 2 - Remixed by Com Truise",0.488,0.934,0.0535,0.153,0.266
+"226","3Stj6Yxce2JpC6NPQlHvdy","Tract Boy",0.401,0.982,0.0527,0.0628,0.606
+"227","3sY6z4pGcxpMwx3W026WtU","Peace of Mind",0.421,0.677,0.0343,0.211,0.683
+"228","3tdV0DSPeNQoWcNak4nGSY","The Christmas Sing-Along",0.723,0.659,0.0364,0.0894,0.495
+"229","3U0nGmwyInpydcegQo2vBA","Body Juggler",0.337,0.99,0.0779,0.0522,0.771
+"230","3UaFnnUo80mv431WHEzaj9","Implicit Demand For Proof",0.495,0.262,0.0292,0.104,0.287
+"231","3ubpkIvw8SDchaRPEKIQPS","Release",0.379,0.396,0.0292,0.118,0.407
+"232","3uEu7hcvgrSOrgnMxzqugh","Pure Grinding",0.712,0.743,0.0627,0.106,0.361
+"233","3UYxSVaquXGHP1yIovi4g9","Simple Dude",0.383,0.771,0.0395,0.0658,0.424
+"234","3v8aPisqoGRZEwwf2rCeXQ","Time Lapse",0.64,0.846,0.108,0.223,0.558
+"235","3VvBPkc24zC7x05mgJTyGO","Monody (feat. Laura Brehm)",0.526,0.69,0.0351,0.0969,0.224
+"236","3vwBmj1E7Dvn7yBqiSEta6","Hanging Lights",0.679,0.228,0.107,0.0942,0.667
+"237","3vYg8WcDdRyiHfOpfjqlTa","Overture - From ""TRON: Legacy""/Score",0.104,0.0818,0.0483,0.132,0.0378
+"238","3xaDEi3VzwYPYaRf1SwaZB","Postres",0.488,0.956,0.0519,0.107,0.667
+"239","3Y5ixjN9T004oqFISs4okQ","Cat Thruster",0.928,0.388,0.0645,0.115,0.783
+"240","3YCUPKddcFr4s6iL4mj6Xy","Meet Me on the Roof",0.409,0.948,0.115,0.741,0.839
+"241","3YYnfKM02WkygOwg6ozfrL","End of Line - Remixed by Boys Noize",0.602,0.879,0.107,0.108,0.354
+"242","3ZdtwUI2bPlq409wroQRmK","Whole Life Story",0.643,0.844,0.0337,0.0925,0.793
+"243","3zWC1keGhHYD7omS4If9TD","Chris",0.564,0.2,0.0296,0.118,0.065
+"244","419sMldCXvELpU0I7h5xS0","Joyce and Lonnie Fighting",0.233,0.111,0.0436,0.127,0.264
+"245","41R4fI1Z1w2gsJEFQWdeJs","To Here Knows When",0.107,0.678,0.0581,0.36,0.145
+"246","42bDSs5PmLPycIZnRZtTPm","Destruction - Original Mix",0.661,0.398,0.0891,0.156,0.241
+"247","42hDrA9GTkuvpxjLtAshct","Tired Of Sex",0.331,0.959,0.0703,0.292,0.318
+"248","42md6M6ygG7V2Rc2NGFxII","Lucid Adventure (Part I) - Original Mix",0.769,0.63,0.0488,0.554,0.327
+"249","42Q2bLdqv3DAB2gKRMO5Jo","Ten Feet Tall (II)",0.174,0.714,0.0387,0.338,0.43
+"250","43Qr1YBCY3vSVCvZuR0PCb","Why Bother?",0.55,0.965,0.0679,0.11,0.601
+"251","446uS2hk2kGLzVqWHnCApg","Droopy Likes Ricochet",0.563,0.348,0.0308,0.172,0.061
+"252","45ZyLimi7rBH8lZeQozVk6","Botanical Nightmare - Original Mix",0.721,0.803,0.059,0.0289,0.371
+"253","47qYqGPgMTh3l1PRKBHEfI","Unity",0.707,0.88,0.0317,0.0534,0.565
+"254","48kxuz4mbDd6akKMgrZXS1","F.U.C.A.W.",0.343,0.973,0.062,0.137,0.11
+"255","4AH5yql7KezJBvVBdW90Dc","Armory - From ""TRON: Legacy""/Score",0.384,0.0475,0.0372,0.115,0.033
+"256","4AHFiQQM1i8ygUUxQXpA4I","Feed Us",0.922,0.756,0.102,0.0451,0.433
+"257","4Ar3oSp4bAw5gz22F70GM7","Moog City",0.461,0.158,0.0372,0.138,0.142
+"258","4B3RbRUP0fl2KxaBWVUfo9","Beginning",0.118,0.0224,0.0369,0.091,0.0378
+"259","4B6A1T91lF1IRKkBVwUzWe","Death",0.539,0.198,0.835,0.359,0.21
+"260","4BdyNseqOFVFUsXJRkpn4X","Expecting",0.357,0.947,0.222,0.158,0.264
+"261","4bk6v5SBxNoVsbOvdOvUAJ","Addict With A Pen",0.553,0.787,0.0931,0.102,0.298
+"262","4Bvxi5oUS3M4DezTfsd5pp","The Grid - From ""TRON: Legacy""/Score",0.548,0.496,0.0355,0.321,0.0973
+"263","4cocLXeDOiFIPBgZCvJ3RF","This Isn't You",0.129,0.0192,0.0372,0.0878,0.0352
+"264","4cwW3SiZlQ54s6G9fWA8om","Rhinoceros - Remastered 2011",0.31,0.499,0.0374,0.25,0.197
+"265","4DRQBzgiM3SQqO5bXXPGpb","The Unknown",0.426,0.766,0.0894,0.0931,0.345
+"266","4eSgEdCZpBOADGdHgPjHan","Überflieger",0.649,0.864,0.0497,0.0308,0.538
+"267","4EuNrA0jzO9bPqvUKenzgm","The Wonderwhy (Hidden Track)",0.429,0.319,0.0547,0.128,0.0971
+"268","4ftIsgHAhJAc5XkzIRrsJS","My Brother Taught Me How to Swim - Noise Acoustic Version",0.61,0.589,0.0415,0.311,0.743
+"269","4GITtbZtRCQXhWLMXrWXHt","Roots",0.637,0.887,0.227,0.326,0.596
+"270","4hP5iSMPYX5yqa2PjMVmVf","No Problem",0.64,0.457,0.0407,0.102,0.426
+"271","4iChoIsP14WSZ575hCqcGK","I Am One - Remastered 2011",0.486,0.729,0.0424,0.047,0.798
+"272","4IN3imzEuTsiHO6tOwDQu5","Trapdoor",0.55,0.625,0.0399,0.161,0.317
+"273","4IwFlkN7kWtS0yXtBZflxe","This Protector",0.484,0.318,0.0401,0.113,0.13
+"274","4izhmF4sQgGemZpLC68bC5","Before You Start Your Day",0.363,0.135,0.0295,0.107,0.195
+"275","4j8gmCSLLy0TSFg2brV01g","Taxi Cab",0.567,0.572,0.0318,0.103,0.205
+"276","4JGWuB0IrUuNhq420oJZ8b","Fantasy",0.868,0.498,0.147,0.094,0.126
+"277","4kbj5MwxO1bq9wjT5g9HaA","Shut Up and Dance",0.578,0.866,0.0619,0.257,0.619
+"278","4KEtmjHSQNf6XucybkmOTo","Castle Byers",0.0642,0.0229,0.0497,0.343,0.0315
+"279","4KV9YAksABLdKmdegK6Vap","DUBSTEP GUNS (Bonus Track)",0.543,0.927,0.057,0.371,0.198
+"280","4lteJuSjb9Jt9W1W7PIU2U","Derezzed - Remixed by The Glitch Mob",0.518,0.527,0.0687,0.107,0.213
+"281","4MDieFoePCIlrAQsuuCC1P","Floating Cube",0.525,0.764,0.0396,0.158,0.371
+"282","4MhcJb7f2mESZVKdIrRICl","Fluffy",0.564,0.833,0.0541,0.191,0.633
+"283","4mM9KHvLoA3hkxznu9DOyI","2448",0.584,0.462,0.0414,0.0902,0.0592
+"284","4N73JneaZH6CF5Y1iEi0QA","The Union Forever",0.396,0.499,0.0861,0.0626,0.075
+"285","4NsPgRYUdHu2Q5JRNgXYU5","Sweden",0.642,0.01,0.0446,0.103,0.197
+"286","4Nwanvqzx02WpDxtYHS0lT","The Fall",0.301,0.413,0.0418,0.112,0.0468
+"287","4o0YiMA52IzmOn5yIdIhu5","Clark",0.217,0.00638,0.0399,0.0732,0.0395
+"288","4OEnpg5ubhg6OQ4M2ZjtsL","The Grid - Remixed by The Crystal Method",0.634,0.798,0.0607,0.1,0.494
+"289","4OgB6TRmIGBRT4NoFxxIQd","Solar Sailer - Remixed by Pretty Lights",0.363,0.733,0.208,0.247,0.406
+"290","4oUQA3eUAzfP6AGVARNmIN","Senses Overload",0.45,0.889,0.126,0.0652,0.374
+"291","4p1CSp2gJYS3FyqsoZhI21","Blood",0.367,0.569,0.042,0.103,0.245
+"292","4P4YCW9qKMf3cGY5VMoUdF","Doctor Finklestein / In The Forest",0.232,0.0628,0.0356,0.113,0.0541
+"293","4pjy5TaJpHgmVcfKY4bdYN","Tried To Tell Her - Them Album Version",0.59,0.861,0.0514,0.212,0.8
+"294","4QaeQX43q3OdWE4JQxomF8","All I Want",0.596,0.832,0.036,0.0467,0.873
+"295","4Qb59tPHwD5faMFJX6u0pF","Chicago",0.536,0.266,0.0372,0.0934,0.288
+"296","4r2IPR6tLBgF1dl2FqcPfF","Overture - (The Nightmare Before Christmas)",0.272,0.304,0.0417,0.121,0.308
+"297","4R4xdpxZdjj8dUfcInZ6bg","Otium",0.259,0.0116,0.0714,0.0954,0.0952
+"298","4R8kTPXEKf0CGWJ1ObZe1Y","Good To Be Bad",0.726,0.484,0.052,0.185,0.535
+"299","4RALcYvfdYs7b7qiIuW7wX","Dispatch",0.625,0.539,0.0725,0.106,0.0301
+"300","4RdRa3qq0GBSKjomxrkh5K","Guns for Hands",0.684,0.858,0.0342,0.0828,0.518
+"301","4rfaoyaZvNa60cj3OKSQV9","Migraine",0.69,0.678,0.154,0.246,0.409
+"302","4RROfcxQXFIwW0ugcZfdC4","Haggstrom",0.771,0.179,0.064,0.0685,0.0374
+"303","4ruLy3YEQy9GdPwp0K33k6","Hello",0.315,0.751,0.0698,0.157,0.1
+"304","4sRhW80XkjsUfwEUSxVA9O","Patterns",0.482,0.749,0.0335,0.0842,0.395
+"305","4th0mPYPuZUs564oCu5I1U","Materia Primoris: The X-Files Theme (Main Title)",0.273,0.248,0.0333,0.155,0.065
+"306","4thqVUsjZeUWNkGdtZbxVZ","Nancy and Barb",0.53,0.155,0.0533,0.109,0.0392
+"307","4Uo8BWsiAGbxBdA5ysleKY","Deus Ex Machina",0.847,0.531,0.0796,0.952,0.0428
+"308","4V5LPHyAOcUERXXD2NngT5","Three Pound Chicken Wing",0.875,0.523,0.0643,0.232,0.0338
+"309","4VCexsNDyC2j8ZrY34RwV0","Jack's Lament",0.282,0.242,0.0479,0.157,0.196
+"310","4VgEM12OeaN3GyBV487Me7","Holiday",0.552,0.89,0.0342,0.888,0.716
+"311","4vL4qUVZguWUffCjTamgIq","Kingdom Smile - Them Album Version",0.59,0.899,0.0345,0.105,0.761
+"312","4x79cjezqX3yd15rSrAVFF","Living Mice",0.431,0.0573,0.0403,0.0484,0.0395
+"313","4XDSPU97OhnuX8gq2ma2Pc","Firepower",0.446,0.819,0.0594,0.0864,0.588
+"314","4xLYG0d5x9RDj2XjKdrtZX","Hazmat Suits",0.182,0.188,0.0428,0.111,0.0377
+"315","4XReCJmkuaKe5uuUhkjI7Q","Fall - From ""TRON: Legacy""/Score",0.28,0.651,0.0302,0.203,0.206
+"316","4xTjyX1PVTZJftjY2dUzBi","Dead Leaves And The Dirty Ground",0.37,0.606,0.0332,0.0844,0.438
+"317","4y3KfP1FoIPqkUOuZhhvdS","White Christmas (feat. The Manhattan Transfer)",0.407,0.42,0.0367,0.0874,0.532
+"318","4YLXjoYmRGIXstTLtloHf2","Dog",0.583,0.529,0.038,0.106,0.0757
+"319","4yn2FLKCyXU4TMUXc7vdrD","Cinnamon",0.674,0.693,0.073,0.301,0.799
+"320","4YYvNP2g6KmNjRy6UruLRn","Soapy Water",0.666,0.567,0.0818,0.177,0.599
+"321","4Z0rLSy9eC4N4M62fSv7CH","Dark Side - Original Mix",0.661,0.697,0.064,0.0383,0.407
+"322","4Zd20Y8OiPirZkyzkkfHLz","The Same Boy You've Always Known",0.353,0.55,0.028,0.109,0.286
+"323","4zJ3S7wjKwPvLbWmeKhceh","True Believer",0.762,0.561,0.0813,0.0768,0.355
+"324","4ZSSsEJHMu93TV1H0i1e8s","Crush - Remastered 2011",0.477,0.333,0.0287,0.127,0.25
+"325","4Zwy1uCug18bUKZzZj5qN3","Groovy",0.728,0.773,0.0549,0.05,0.458
+"326","50POwIlAUa2Z9il03044Kp","Take It Away",0.707,0.728,0.0318,0.0855,0.282
+"327","52UcjsM15hjCQAUbTW2hy1","Only Shallow",0.138,0.691,0.0443,0.0895,0.36
+"328","550rQQCGkrTzvp4SfpOPzx","Hallelujah",0.322,0.377,0.0356,0.338,0.366
+"329","56uaGbVxAjwYGVAqx6s3jF","Black Mollies",0.517,0.334,0.0375,0.126,0.0361
+"330","57bgtoPSgt236HzfBOd8kj","Thunderstruck",0.502,0.89,0.0364,0.217,0.259
+"331","5aIJjrQkGwo5BQuefV2RpA","Children of the Night",0.619,0.987,0.124,0.331,0.149
+"332","5AzCL8yx75dY6qQNZBFt9W","No Autopsy",0.153,0.221,0.0368,0.105,0.0367
+"333","5b8R9dmcqpz48eh6DJkPgl","Du Hast",0.646,0.924,0.0392,0.344,0.631
+"334","5cbpoIu3YjoOwbBDGUEp3P","Car Radio",0.766,0.519,0.0366,0.0855,0.612
+"335","5ChWK0KD7NpYtGqW3H5xee","Eatnemen Vuelie",0.158,0.103,0.0412,0.0963,0.089
+"336","5CjwXdq5Z73Va0XCPFG5Aq","The Good Life",0.539,0.893,0.0423,0.339,0.683
+"337","5CpsIb7SMFHjmAG8RvIWfq","Leaving Heaven (feat. Skylar Grey)",0.661,0.748,0.206,0.254,0.509
+"338","5cS1DnFBD84E3UXaMBrHjk","Biking to School",0.281,0.386,0.0635,0.111,0.266
+"339","5cYitwPZcKDtroysB8zIXL","This is Halloween",0.441,0.469,0.0398,0.0794,0.508
+"340","5dbgfhQpLiycbirhH3dJdh","Tear in My Heart (feat. MUTEMATH)",0.757,0.786,0.0453,0.109,0.578
+"341","5DpMC5LyupCri9iFBkZREt","Fortune - Original Mix",0.698,0.641,0.138,0.0785,0.448
+"342","5dvDAORqUH5xoO8bfv0hlG","Summer",0.539,0.824,0.0293,0.102,0.614
+"343","5DVKKqwLGjvK9ojz3zLjB7","There Will Be Time",0.481,0.703,0.0466,0.0879,0.225
+"344","5ehQ98y6rSWTikDMVpHwc5","Lisbon",0.519,0.829,0.0479,0.132,0.269
+"345","5fqjfiMOFapIb8uFcxBStH","Mice On Venus",0.433,0.0286,0.0527,0.0594,0.0764
+"346","5fSVkZ2vrucuBJwvo3HOVl","Feeling Stronger (High Maintenance Remix) [feat. Charlotte Colley]",0.434,0.95,0.0383,0.431,0.532
+"347","5fXdbH7woFgkGGPgkq16Qc","She'll Kill You",0.134,0.331,0.033,0.1,0.0981
+"348","5g7cxBzsV7RpgXMhAzzzAP","Bomb",0.64,0.876,0.0732,0.0995,0.635
+"349","5hUigcjLZPaqEfzqSqOSLQ","Jack and Sally Montage",0.216,0.052,0.0342,0.189,0.0621
+"350","5iaeuSweyKjyrNa47uwwk3","Blown a Wish",0.128,0.442,0.043,0.127,0.339
+"351","5IJ6rniX2mkT2ITklBSx6a","Do You Wanna Get High?",0.443,0.813,0.0456,0.117,0.691
+"352","5IpREMuMUXO08el4CDO6ha","Send Me An Angel",0.551,0.617,0.0327,0.152,0.183
+"353","5IXeOf1hqORwp8b6c1Asqa","99 Red Balloons",0.287,0.846,0.115,0.217,0.29
+"354","5IZg7Ngm3CTOj9l00YSrt9","Talk To Myself",0.722,0.799,0.0613,0.0462,0.886
+"355","5JFkuKQsPps2ZaZzaLx63d","Crystallize",0.44,0.623,0.0316,0.103,0.0563
+"356","5KBKqxYY263Tr0haAu3fMz","Sometimes",0.351,0.651,0.0789,0.0916,0.0395
+"357","5KmMMmc1pXL5lL4HlR9Srz","Sweet Adeline",0.551,0.271,0.0268,0.0915,0.285
+"358","5ksOAkKgN7cHVCafpi0aqF","Fight - Them Album Version",0.566,0.425,0.031,0.155,0.144
+"359","5lEyZ55Ub8mOqBbQ0lmcyK","Poor Jack",0.393,0.299,0.0725,0.652,0.311
+"360","5LQ6tJC074BLxn09JUv8B5","Look Alive, Stay Alive",0.444,0.913,0.105,0.267,0.519
+"361","5LWUzNLA1mYCz9m7DmGBvl","Finale / Reprise",0.247,0.252,0.0514,0.15,0.103
+"362","5MgpI42J5fOVxYLrP34xiC","Ultrasonic Sound",0.605,0.959,0.0688,0.101,0.582
+"363","5MtCEB1r6jzRIu5KZHOrNA","Hawkins",0.0613,0.0939,0.0429,0.134,0.0309
+"364","5nj4NsGZuzind9j4sKZ9jN","Daddy Never Cried - Them Album Version",0.562,0.976,0.0567,0.074,0.3
+"365","5NziFO1dYnQPu2EXdTB4UL","Come in Alone",0.203,0.507,0.0399,0.106,0.439
+"366","5oa913c34YyOgNl3qLlShI","Honest",0.499,0.317,0.0332,0.135,0.281
+"367","5pryXvaRTif60GCf1e4rmc","Dream",0.379,0.513,0.0492,0.069,0.108
+"368","5pyyN3d68eSFbwJRT0SIYO","Heathens (feat. MUTEMATH)",0.322,0.433,0.0554,0.0806,0.0739
+"369","5qVsoXK98dIWn8j6Q4o63W","Are You Sure?",0.276,0.0227,0.0369,0.117,0.0361
+"370","5rMNQfYhBMlyitrMAiwQfc","I Know What I Am",0.64,0.904,0.0874,0.105,0.559
+"371","5rwltqXrIniDtZIx4J6u50","The Upside Down",0.169,0.0598,0.0339,0.173,0.0318
+"372","5sJVWmJuVQ0AjCYI7AB1bP","Now Mary",0.318,0.886,0.0504,0.0662,0.513
+"373","5tFpkuwgFZQm3jv4PTX4VB","Garden Grove",0.531,0.617,0.0426,0.0296,0.549
+"374","5uozEFB0xzT0QsgrA9DLGr","Ready for the Weekend",0.818,0.711,0.0368,0.053,0.945
+"375","5uywMR3hTeVPoWaFDSliJb","Thank God for Girls",0.559,0.876,0.0495,0.0734,0.4
+"376","5vaaebnSBCZRVoEqZ6rEWs","The Factory",0.383,0.92,0.29,0.456,0.217
+"377","5vBuxtwitUimHR2gBOnJYR","King of the World",0.433,0.879,0.067,0.0688,0.536
+"378","5vENpNhFdtArPAJgTAtnla","Can't Catch Me",0.627,0.702,0.091,0.0891,0.592
+"379","5w5NylxR2K71isn84raTZh","Smoke And Mirrors",0.601,0.636,0.0283,0.446,0.0812
+"380","5WLB7rcHQyWPkOQNNWgm5D","Punks",0.653,0.721,0.102,0.245,0.464
+"381","5X4ojuZG2mZ68EcLyBQ1D3","Derezzed - From ""TRON: Legacy""/Score",0.54,0.635,0.0519,0.209,0.126
+"382","5x9DGlmLpi3AAMZO7aUhGW","Invasion",0.744,0.416,0.108,0.177,0.599
+"383","5XwotgdEfBrVUnKfYpioVy","Introitus: Praeceps Transito Spatium",0.225,0.27,0.079,0.465,0.0452
+"384","5XxnQCH09YiaPPdUGS8xNC","Arrival - From ""TRON: Legacy""/Score",0.107,0.13,0.0492,0.115,0.0385
+"385","5y1jgbDNgTfxoWXv3FhH2Q","Little One",0.474,0.351,0.0292,0.112,0.104
+"386","5ygTySvimUjWJk9WLgMDCn","Hopeless Opus",0.627,0.656,0.0358,0.215,0.555
+"387","5z75fXqSd5jhRsV543Trxh","Silk",0.537,0.407,0.0284,0.144,0.208
+"388","5zhBhWQcHsvycF83yvIAzC","Opening - (The Nightmare Before Christmas)",0.503,0.286,0.469,0.116,0.56
+"389","5zq659EhuvPNLavAix4g42","Cantus Exico",0.0752,0.173,0.0522,0.599,0.0324
+"390","5zTX7MeCrTX5ZBFSqJS7XZ","A Car, A Torch, A Death",0.618,0.732,0.0724,0.0925,0.444
+"391","60lpxsz5DjjZAChH8dzFDt","Making Christmas",0.559,0.386,0.108,0.122,0.256
+"392","63Ul5qgAxlXbtj97gKaAfn","Finale - From ""TRON: Legacy""/Score",0.0787,0.11,0.0491,0.0985,0.0282
+"393","64ETHwzBLaBTGuKY55K1Kc","Friction",0.65,0.548,0.0357,0.293,0.29
+"394","65sIQ5WPtoLUpXUWGipkov","Carmen Amatorium Ex Arcanum",0.416,0.172,0.0324,0.515,0.102
+"395","66Dtn2xsYdZvGMqOLSwvSZ","Closing",0.508,0.254,0.531,0.638,0.626
+"396","66uVqkmHAc0MBUzoPhIypN","Fall - Remixed by M83 VS Big Black Delta",0.373,0.841,0.0614,0.342,0.164
+"397","67CY1sdwFSvQQLcEajOj6C","Heavydirtysoul (feat. MUTEMATH)",0.639,0.795,0.0523,0.128,0.361
+"398","67T8GmlYhtMpPGzGXzXgIw","Bury Me - Remastered 2011",0.448,0.883,0.0444,0.29,0.226
+"399","688tjax6OWqqEkPzesU7Kc","Gamefire (feat. Mike Diva)",0.494,0.811,0.0487,0.344,0.471
+"400","68gzf3AleOyt4NlKwpV0MY","Kids",0.437,0.129,0.0381,0.347,0.0671
+"401","68hC01gNja5yqY5JCkV82E","I’m So Sorry",0.528,0.687,0.0532,0.251,0.423
+"402","68NsOuum1AegLDhOIr2ADL","The Run and Go",0.798,0.318,0.0431,0.158,0.425
+"403","69Fb0QSrw7XZ84tOUJg0U1","Beastmode",0.458,0.962,0.0414,0.387,0.531
+"404","6alKswvFckHEeNtO3JFvZl","Up On The Housetop",0.862,0.643,0.0695,0.07,0.952
+"405","6aVyspMofLtk7QprOjJuv3","Dull Gold Heart",0.511,0.412,0.0283,0.12,0.168
+"406","6BEKt5axiNeWCr9huv0k7I","Truce",0.537,0.0231,0.0475,0.146,0.342
+"407","6Bt3kHZOXtG1SztASZpahX","Warriors",0.547,0.9,0.0966,0.273,0.227
+"408","6cwemXIKrAQeP7TMErGwM3","Isle Of Flightless Birds",0.753,0.421,0.0551,0.139,0.134
+"409","6d0B924xI8hHs3Xk7enRjj","Nocturne - From ""TRON: Legacy""/Score",0.185,0.0362,0.0373,0.11,0.0335
+"410","6ddpw33D907V38fCI0GDG6","F.W.Y.T.",0.652,0.669,0.0277,0.132,0.45
+"411","6DGolYafMwFVIv4xP6coLA","Pen Pineapple Apple Pen",0.829,0.563,0.23,0.0625,0.338
+"412","6dVa1lUKHU2Jqkh6530irt","God Rest Ye Merry Gentlemen",0.757,0.399,0.057,0.196,0.7
+"413","6dy23IgPvA9UKwirjbLSBv","Jack's Obsession",0.519,0.33,0.111,0.0842,0.667
+"414","6EpennxDsO9TrEmCLW0LSl","Light Of The Morning",0.31,0.685,0.0453,0.116,0.409
+"415","6eXtNB8pyW0q7oPLoJHDe6","Lights Out",0.369,0.0045,0.059,0.124,0.18
+"416","6FmzUWHW313TqFUdBwYcsH","Little Room",0.455,0.75,0.0447,0.0635,0.773
+"417","6FQcdl2PzmsoXRF3F1flZ5","Second Chances",0.401,0.567,0.0355,0.103,0.362
+"418","6fua0gfhhWrXrIZRHrlr8v","I Call It Progstep - Original Mix",0.507,0.87,0.0902,0.482,0.525
+"419","6g8oCZEMFC8xMOsP82EIEN","Money",0.305,0.98,0.111,0.46,0.589
+"420","6gDTyTnFxpvQtkgGuNWGbE","Friend, Please",0.228,0.517,0.0401,0.29,0.204
+"421","6gwTofLXScaqfuIT7FxFan","cschz 02",0.229,0.465,0.0491,0.106,0.0312
+"422","6Gzwo0wI8Ya2FX1W4e9aco","Hourglass",0.58,0.832,0.0397,0.105,0.298
+"423","6hEvTmmvby9ZTkSdfmPW3m","C.L.U. - Remixed by Paul Oakenfold",0.595,0.605,0.031,0.181,0.163
+"424","6hHM0nt6EoIUuvnzRx16rk","Scared Am I",0.25,0.979,0.0822,0.105,0.59
+"425","6hWaZMWdQMCEMO52cGo6fP","Impossible",0.533,0.677,0.0271,0.0857,0.344
+"426","6i0V12jOa3mr6uu4WYhUBr","Heathens",0.732,0.396,0.0286,0.105,0.548
+"427","6ie5en0vOy4GUercEUUNfJ","Cash Machine",0.417,0.624,0.037,0.175,0.497
+"428","6IfmL7H8ZH8zCpdDL8dLox","AKA",0.346,0.49,0.0329,0.0988,0.0872
+"429","6J2rMdXyBOi9Pp3NWaMZFk","Hotel Yorba",0.382,0.798,0.093,0.0813,0.77
+"430","6jNM6fKx3WnyHbWBI9hs2r","Cinema (feat. Gary Go) - Skrillex Remix",0.635,0.983,0.174,0.0683,0.434
+"431","6JsePoT1VWserj2YIUu0hE","Trouble",0.388,0.889,0.116,0.142,0.327
+"432","6LBXgBDohHyvUtIajQEJEo","Mercutura",0.0801,0.142,0.054,0.132,0.0411
+"433","6lWT2iiPfzUiqFMNyFnR4b","Ride (feat. MUTEMATH)",0.529,0.841,0.0787,0.122,0.337
+"434","6M1lGjZRnXL4vZvY0p3kTv","Turn To Dust",0.511,0.434,0.0284,0.23,0.242
+"435","6mBP1Yoeh1Zz7RO2DB51MA","Glish",0.689,0.578,0.473,0.059,0.547
+"436","6N3WeSZZlRQPBrhec8Zocb","Fleya - Original Mix",0.552,0.7,0.0448,0.134,0.116
+"437","6Ng999MKVY9ikd8FtGaNnz","Polaroid",0.424,0.603,0.0495,0.238,0.258
+"438","6Nicr6yBQXqEe8s5nqMmCm","Window Paine - Remastered 2011",0.293,0.25,0.0403,0.0971,0.18
+"439","6NunWZuZ6g9KipJ9Q5Vck7","Bros",0.583,0.921,0.0697,0.226,0.222
+"440","6o94nmp72lGvcFfaF6dsjZ","O Come, All Ye Faithful",0.717,0.604,0.0594,0.0632,0.826
+"441","6ou3hNS6kJiudetwdotPXG","After Sarah",0.244,0.0947,0.0647,0.0984,0.0336
+"442","6Ouhvcr40GAzEFwmxs5ir2","Nighthum - Original Mix",0.766,0.534,0.056,0.123,0.273
+"443","6ph4Hc4zzvxSEgjgiIkWgu","Clubbed to Death - Kurayamino Variation",0.377,0.65,0.0284,0.346,0.0978
+"444","6PR3ZUCnxtQTEu30qgZLwT","Door",0.459,0.112,0.0396,0.093,0.0781
+"445","6QjLb9or5ah89Vxsohzn7R","Facetus Malum",0.399,0.00574,0.0417,0.188,0.202
+"446","6QJnaTEqZYHoA1RWv9NHKS","Xenogenesis",0.544,0.608,0.0287,0.0912,0.0876
+"447","6QOZWUCG5vq4xtU3mW2ZA2","The Pantaloon",0.733,0.636,0.0299,0.32,0.591
+"448","6qQGxKyy6LcyZVsWn93lyS","Pink Triangle",0.282,0.894,0.0822,0.347,0.466
+"449","6QUzx4rKDId0AhloBuE4KK","Coventry Carol",0.39,0.329,0.0293,0.127,0.22
+"450","6sa8y1XKi2ljJd0z6sUEz3","Disc Wars - From ""TRON: Legacy""/Score",0.543,0.48,0.0304,0.117,0.35
+"451","6tpfuqKv76Ck3afpusC8N2","Run Away",0.411,0.489,0.0453,0.101,0.475
+"452","6TQMx46BOs5GHS3hcshYQf","What You Want",0.198,0.658,0.072,0.226,0.0386
+"453","6tZUOzi9p1j7stp8Y5OUoJ","Wind in Our Sail",0.439,0.849,0.0329,0.128,0.847
+"454","6u13tCUeMafkT0KFsmvodB","We're Going To Be Friends",0.521,0.473,0.0275,0.0715,0.46
+"455","6ubSpevM3YExR5DJqCtoUY","Giant Peach",0.507,0.82,0.0756,0.704,0.142
+"456","6UeZaUH9SKuwrH8WvcOxPJ","Singularity",0.732,0.192,0.057,0.106,0.0713
+"457","6Uks8ZMSlASX7aygehQesZ","Jacked Up",0.552,0.863,0.0431,0.25,0.345
+"458","6VNtoQ5FSWZhiGgJ3DZSUb","Christmas Eve Montage",0.269,0.164,0.0389,0.181,0.0968
+"459","6x14wL9HvABR2Rix8N88EH","Dylan Thomas",0.592,0.805,0.0371,0.0916,0.505
+"460","6xwhCiWXREsAIQVZqHswVw","Minecraft",0.206,0.0154,0.0426,0.0662,0.116
+"461","6YtkOhiHmf46w1noltVnF2","Naked Eye",0.737,0.657,0.0284,0.0953,0.76
+"462","6YwBgKFHrIdo49ED7dEnIq","Nola 1",0.616,0.774,0.0308,0.105,0.235
+"463","6ZtRQtcJBZXmsA6kylNQij","I Can't Wait",0.327,0.829,0.0359,0.154,0.116
+"464","70Cp0ukCMyWeJML77NGERU","Semi-Automatic",0.78,0.716,0.0439,0.0704,0.362
+"465","70oK6ePjILgOuBUzRDOfCR","Air Catcher",0.519,0.436,0.0285,0.107,0.133
+"466","71ZFO7KPPvlzNLzrYPsTaK","Five Foot Ten (I)",0.623,0.898,0.0402,0.137,0.774
+"467","72m39ATETJ95XLQv8tK6QN","Theoretically",0.493,0.365,0.0435,0.107,0.617
+"468","72MoCPAnz0UljAVmwHHw3Y","End of Line - From ""TRON: Legacy""/Score",0.354,0.449,0.03,0.344,0.0397
+"469","773xZHHSHJvC1z3AAtWgH6","Ode to Sleep",0.446,0.76,0.0453,0.232,0.512
+"470","77vDHmiANW3JS2gNN5q7pI","Fall Away",0.816,0.766,0.0565,0.0893,0.696
+"471","7ak3sB4wCTsdpp0HRJk8v7","Shunting Yard",0.237,0.244,0.0445,0.339,0.259
+"472","7aoInyY7amyKi0NFDLFZbP","This Is Halloween",0.482,0.944,0.172,0.0914,0.295
+"473","7BGSq4tLhnVLKZpB3PLnm1","Heather",0.27,0.98,0.0807,0.0874,0.112
+"474","7bVuO38B53pr2J3Lrs7BZd","Aluminum",0.226,0.769,0.0641,0.0785,0.351
+"475","7DkYMcBOQYBceaj7dXDJTo","Hawkins Lab",0.365,0.132,0.0451,0.0963,0.0381
+"476","7DLkRuGqvf9gFpmSnIgvjz","To Light Alone I Bow",0.258,0.178,0.0503,0.522,0.0389
+"477","7FUSfW7C5uz49gXwzqWKb1","Halloweekend - Original Mix",0.453,0.777,0.152,0.389,0.309
+"478","7gChGUkqWkinDS7uYoMLIM","Moaning Lisa Smile",0.513,0.839,0.0427,0.113,0.294
+"479","7GyDcM22nxCJHcQa11fbYk","Where the Sky Hangs",0.819,0.681,0.0308,0.1,0.93
+"480","7HX6O8k7gAHFzm9Dd50Kuz","Windfall",0.651,0.852,0.0301,0.0658,0.397
+"481","7irNlzUSPNgCDtEyQuS3lm","Arena - Remixed by The Japanese Popstars",0.517,0.796,0.0433,0.111,0.292
+"482","7ITRNB9OckYIp2SW2iXU8U","Soon",0.425,0.839,0.0385,0.433,0.705
+"483","7iVc91ubTt3leh5NXmFi5a","The Calling - Instrumental",0.739,0.466,0.0301,0.112,0.0865
+"484","7JJPh9eOiSr8zYlBjcu2w0","Across The Sea",0.27,0.91,0.0538,0.0878,0.27
+"485","7K7E7LKK51PezScgsvVg9Y","Key",0.129,0.00376,0.0379,0.0774,0.0376
+"486","7kbTZWt7DnzIzbkyzFE1PW","For A Better Day",0.639,0.843,0.0334,0.108,0.317
+"487","7LWH4HL1orhf9eqHSdli2N","Rain (feat. Sara Kay)",0.462,0.849,0.0304,0.52,0.0677
+"488","7MsP6bRg4d7rnuZqaN0HnE","Endless Bummer",0.595,0.379,0.0252,0.638,0.475
+"489","7odsUFDiJVv0HUQuSYsRbT","Shots",0.552,0.76,0.0367,0.313,0.338
+"490","7oWbq0t2oUKerJypx2asKA","Dry Run",0.294,0.963,0.0805,0.123,0.846
+"491","7qCqJ9kprrlsgUUQQF8pWw","Hey Hey",0.753,0.523,0.038,0.0718,0.432
+"492","7uEDFuKsEsRSbVTVwHTt78","You're a Germ",0.628,0.835,0.062,0.322,0.575
+"493","7wz8LNfmGZ3C0PwKW9LdDg","Battery (Remastered)",0.48,0.923,0.0682,0.106,0.44
+"494","7zlueeMmamTjOYMDgIO3hz","Destroyer of Speakers",0.632,0.708,0.0578,0.0805,0.0428

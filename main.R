@@ -63,3 +63,4 @@ track_uris = user_library[1:max(1, target_length),"track.id"]
 new_playlist_id = create_playlist(user_id = get_my_profile()$id, name = str_to_title(target_mood))$id
 
 add_all_tracks_to_playlist(new_playlist_id, track_uris)
+
