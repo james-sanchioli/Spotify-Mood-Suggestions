@@ -6,15 +6,15 @@ By utilizing R Machine Learning Libraries, the goal is to create a suggested pla
 
 ## Links to Base Playlists
 
-Sad: <https://open.spotify.com/playlist/3gmmVFkpQvLdEMH3Tn71Fu?si=XnVhPtpjSoCj4zqAGV75SQ>
-
-Happy: <https://open.spotify.com/playlist/3yAdH54Bsu4LmWcUzCnfNO?si=fFZOUgRbQ-6ioWbsA7uVlA>
+Angry: <https://open.spotify.com/playlist/78NIPntaFKhZ6IIK28yVuY?si=YfEv5FZcQN2dsionLeVi-Q>
 
 Excited: <https://open.spotify.com/playlist/6rgaNPmjviaMojNpD4SbWL?si=NwPBDG5WRua3EqqHUvTEFQ>
 
-Angry: <https://open.spotify.com/playlist/78NIPntaFKhZ6IIK28yVuY?si=YfEv5FZcQN2dsionLeVi-Q>
+Happy: <https://open.spotify.com/playlist/3yAdH54Bsu4LmWcUzCnfNO?si=fFZOUgRbQ-6ioWbsA7uVlA>
 
 Relaxed: <https://open.spotify.com/playlist/1JSrACfgnnueScxsJ2ZtPP?si=3218c1fc64d442d3>
+
+Sad: <https://open.spotify.com/playlist/3gmmVFkpQvLdEMH3Tn71Fu?si=XnVhPtpjSoCj4zqAGV75SQ>
 
 ## Example Generated Playlists
 
